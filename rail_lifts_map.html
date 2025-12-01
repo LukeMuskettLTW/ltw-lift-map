@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>LTW Lift Reliability Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+    #map {
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .layer-toggles {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: white;
+      padding: 6px 10px;
+      border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+      font-size: 13px;
+      line-height: 1.4;
+    }
+    .layer-toggles label {
+      display: block;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .legend {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      background: white;
+      padding: 6px 10px;
+      border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin: 2px 0;
+    }
+    .legend-swatch {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div class="layer-toggles">
+    <label>
+      <input type="checkbox" id="toggle-ltw" checked />
+      LTW area stations
+    </label>
+    <label>
+      <input type="checkbox" id="toggle-non-ltw" />
+      Outside LTW area
+    </label>
+    <label>
+      <input type="checkbox" id="toggle-nolift" />
+      Show stations with no lift
+    </label>
+  </div>
+
+  <div class="legend">
+    <div><strong>Lift status (station overall)</strong></div>
+    <div class="legend-item">
+      <span class="legend-swatch" style="background:#2ecc71;"></span>
+      All lifts working
+    </div>
+    <div class="legend-item">
+      <span class="legend-swatch" style="background:#e74c3c;"></span>
+      All lifts not working
+    </div>
+    <div class="legend-item">
+      <span class="legend-swatch" style="background:#f39c12;"></span>
+      Mixed lift status
+    </div>
+    <div class="legend-item">
+      <span class="legend-swatch" style="background:#3498db;"></span>
+      Unknown / TfL lift status
+    </div>
+    <div class="legend-item">
+      <span class="legend-swatch" style="background:#7f8c8d;"></span>
+      No lift at station
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    // Create map
+    const map = L.map('map').setView([51.5074, -0.1278], 9);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    const chkLtw    = document.getElementById('toggle-ltw');
+    const chkNonLtw = document.getElementById('toggle-non-ltw');
+    const chkNoLift = document.getElementById('toggle-nolift');
+
+    const ltwMarkers = [];
+    const nonLtwMarkers = [];
+    const noLiftSet = new Set(); // markers representing 'no_lift' stations
+
+    function setMarkerVisible(marker, visible) {
+      if (visible) {
+        if (!map.hasLayer(marker)) map.addLayer(marker);
+      } else {
+        if (map.hasLayer(marker)) map.removeLayer(marker);
+      }
+    }
+
+    function updateVisibility() {
+      const showLtw    = chkLtw.checked;
+      const showNonLtw = chkNonLtw.checked;
+      const showNoLift = chkNoLift.checked;
+
+      function apply(list, showGroup) {
+        list.forEach(marker => {
+          const isNoLift = noLiftSet.has(marker);
+          const visible = showGroup && (showNoLift || !isNoLift);
+          setMarkerVisible(marker, visible);
+        });
+      }
+
+      apply(ltwMarkers, showLtw);
+      apply(nonLtwMarkers, showNonLtw);
+    }
+
+    // Display version of mode
+    function displayMode(modeRaw) {
+      if (!modeRaw) return 'Other';
+      const m = modeRaw.toLowerCase();
+      if (m === 'rail') return 'National Rail';
+      return modeRaw; // Tube, DLR, Overground, Elizabeth line, etc.
+    }
+
+    // Canonical "cluster name" for grouping nearby lifts at the same complex
+    function clusterNameForKey(rawName) {
+      if (!rawName) return '';
+
+      let name = rawName.trim();
+
+      // Remove bracketed suffixes: "Paddington (H&C Line)" -> "Paddington"
+      name = name.replace(/\s*\(.*?\)\s*/g, ' ').trim();
+      name = name.replace(/\s{2,}/g, ' '); // collapse double spaces
+
+      // Handle "London Paddington", "London Victoria", etc.
+      const londonTermini = [
+        'Paddington',
+        'Victoria',
+        'Waterloo',
+        'Euston',
+        'Marylebone',
+        'Liverpool Street',
+        'St. Pancras',
+        'Cannon Street',
+        'Charing Cross',
+        'Blackfriars',
+        'Fenchurch Street',
+        "King's Cross",
+        'Moorgate'
+      ];
+
+      if (name.toLowerCase().startsWith('london ')) {
+        const rest = name.slice(7).trim(); // after "London "
+        const restLower = rest.toLowerCase();
+        for (const term of londonTermini) {
+          if (restLower.startsWith(term.toLowerCase())) {
+            name = rest;
+            break;
+          }
+        }
+      }
+
+      // Special-case canonicalisation for known complexes
+      const lower = name.toLowerCase();
+
+      // Anything starting "London Bridge ..." -> "London Bridge"
+      if (lower.startsWith('london bridge')) {
+        name = 'London Bridge';
+      }
+
+      // Any "Waterloo Intl"/"Waterloo International" variants -> "Waterloo"
+      if (
+        lower.startsWith('waterloo intl') ||
+        lower.startsWith('waterloo international') ||
+        lower.startsWith('london waterloo intl') ||
+        lower.startsWith('london waterloo international')
+      ) {
+        name = 'Waterloo';
+      }
+
+      return name.toUpperCase(); // canonical for the key
+    }
+
+    // Determine overall station status for a group of records at same complex
+    function overallStatusForGroup(group) {
+      let hasAnyLift = false;
+      let hasWorking = false;
+      let hasNotWorking = false;
+      let hasUnknown = false;
+
+      group.forEach(rec => {
+        if (rec.has_lift) {
+          hasAnyLift = true;
+          const status = (rec.lift_status || '').toLowerCase();
+          if (status === 'working' || status === 'in_service') {
+            hasWorking = true;
+          } else if (status === 'not_working' || status === 'out_of_service') {
+            hasNotWorking = true;
+          } else {
+            hasUnknown = true;
+          }
+        }
+      });
+
+      if (!hasAnyLift) return 'no_lift';
+
+      const distinct = [hasWorking, hasNotWorking, hasUnknown].filter(Boolean).length;
+      if (distinct > 1) return 'mixed';
+      if (hasWorking) return 'all_working';
+      if (hasNotWorking) return 'all_not_working';
+      return 'all_unknown';
+    }
+
+    function colourForOverallStatus(status) {
+      switch (status) {
+        case 'all_working':
+          return '#2ecc71'; // green
+        case 'all_not_working':
+          return '#e74c3c'; // red
+        case 'mixed':
+          return '#f39c12'; // amber
+        case 'all_unknown':
+          return '#3498db'; // blue
+        case 'no_lift':
+        default:
+          return '#7f8c8d'; // grey
+      }
+    }
+
+    function liftStatusLabel(rec) {
+      if (!rec.has_lift) {
+        return 'no lift recorded';
+      }
+
+      const statusRaw = (rec.lift_status || 'unknown').toLowerCase();
+      const modeLower = (rec.mode || '').toLowerCase();
+
+      if (statusRaw === 'working' || statusRaw === 'in_service') {
+        return 'working';
+      }
+      if (statusRaw === 'not_working' || statusRaw === 'out_of_service') {
+        return 'not working';
+      }
+
+      // Unknown status – highlight TfL modes specially
+      if (['tube', 'overground', 'dlr', 'elizabeth line', 'elizabeth-line', 'elizabethline'].includes(modeLower)) {
+        return 'status unknown (TfL lift – blue)';
+      }
+      return 'status unknown';
+    }
+
+    // Build popup HTML for a grouped marker
+    function buildPopupHtml(group) {
+      if (!group.length) return '';
+
+      const first = group[0];
+      const lines = [];
+
+      lines.push('<strong>' + first.name + '</strong>');
+      lines.push('LTW area: ' + (first.in_ltw_area ? 'Yes' : 'No'));
+
+      // Does this complex have ANY lifts at all?
+      const anyLifts = group.some(rec => rec.has_lift);
+
+      if (group.length === 1) {
+        const rec = group[0];
+
+        lines.push('Mode: ' + displayMode(rec.mode));
+
+        if (rec.has_lift) {
+          lines.push('Lift status: ' + liftStatusLabel(rec));
+        } else {
+          // Only show grey if truly no lifts exist at the station
+          lines.push('No lift at station');
+        }
+
+      } else {
+        // MULTIPLE entries at location
+        if (!anyLifts) {
+          // Whole station has no lifts – simple, single grey message
+          return [
+            '<strong>' + first.name + '</strong>',
+            'LTW area: ' + (first.in_ltw_area ? 'Yes' : 'No'),
+            'No lift at station'
+          ].join('<br/>');
+        }
+
+        lines.push('<em>Lift entries at this location:</em>');
+
+        group.forEach(rec => {
+          if (rec.has_lift) {
+            // Only show real lifts when the station has any
+            lines.push(
+              displayMode(rec.mode) + ' – ' + liftStatusLabel(rec)
+            );
+          }
+          // If station HAS lifts, we skip non-lift entries entirely
+        });
+      }
+
+      return lines.join('<br/>');
+    }
+
+    // Load JSON and add grouped markers
+    fetch('ltw_station_map_data.json')
+      .then(resp => {
+        if (!resp.ok) {
+          throw new Error('HTTP ' + resp.status + ' loading ltw_station_map_data.json');
+        }
+        return resp.json();
+      })
+      .then(data => {
+        console.log('Loaded station records:', data.length);
+
+        const groups = new Map();
+
+        data.forEach(station => {
+          const lat = station.latitude;
+          const lon = station.longitude;
+          if (lat == null || lon == null) return;
+
+          // Group by canonical cluster name + coarse location (~11km)
+          const clusterKey = clusterNameForKey(station.name);
+          const key = clusterKey + '|' + lat.toFixed(1) + '|' + lon.toFixed(1);
+
+          if (!groups.has(key)) {
+            groups.set(key, []);
+          }
+          groups.get(key).push(station);
+        });
+
+        groups.forEach(group => {
+          const first = group[0];
+          const lat = first.latitude;
+          const lon = first.longitude;
+
+          const overall = overallStatusForGroup(group);
+          const color = colourForOverallStatus(overall);
+
+          const marker = L.circleMarker([lat, lon], {
+            radius: group.length > 1 ? 6 : 4,
+            color: color,
+            weight: 1,
+            fillOpacity: 0.9
+          });
+
+          marker.bindPopup(buildPopupHtml(group));
+
+          if (first.in_ltw_area) {
+            ltwMarkers.push(marker);
+          } else {
+            nonLtwMarkers.push(marker);
+          }
+
+          if (overall === 'no_lift') {
+            noLiftSet.add(marker);
+          }
+
+          marker.addTo(map);
+        });
+
+        // Initial visibility: LTW on, outside off, no-lift off
+        updateVisibility();
+      })
+      .catch(err => {
+        console.error('Error loading station data', err);
+        alert('Error loading station data: ' + err.message);
+      });
+
+    chkLtw.addEventListener('change', updateVisibility);
+    chkNonLtw.addEventListener('change', updateVisibility);
+    chkNoLift.addEventListener('change', updateVisibility);
+  </script>
+</body>
+</html>
