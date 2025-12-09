@@ -305,7 +305,7 @@
     "mode": "Rail",
     "latitude": 51.76299316361209,
     "longitude": -0.5606233925992198,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -545,7 +545,7 @@
     "mode": "Rail",
     "latitude": 51.75180430452443,
     "longitude": -0.806970541648114,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -665,7 +665,7 @@
     "mode": "Rail",
     "latitude": 51.580961854514655,
     "longitude": -0.31494356496192133,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -895,7 +895,7 @@
     "mode": "Rail",
     "latitude": 51.58010020200976,
     "longitude": -0.5162216512086942,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -1375,7 +1375,7 @@
     "mode": "Rail",
     "latitude": 51.55118758880192,
     "longitude": -0.2945789078852411,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -1395,7 +1395,7 @@
     "mode": "Rail",
     "latitude": 51.674883801628226,
     "longitude": -0.3884119580152945,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -1535,7 +1535,7 @@
     "mode": "Rail",
     "latitude": 51.675447233790976,
     "longitude": -0.8238474201176247,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -1745,7 +1745,7 @@
     "mode": "Rail",
     "latitude": 51.5435538999254,
     "longitude": -0.27439788786617364,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -1805,7 +1805,7 @@
     "mode": "Rail",
     "latitude": 51.800025094718784,
     "longitude": -0.6206238995649933,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -1825,7 +1825,7 @@
     "mode": "Rail",
     "latitude": 51.7872818910137,
     "longitude": -0.782602632487723,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -1925,7 +1925,7 @@
     "mode": "Rail",
     "latitude": 51.55661537929007,
     "longitude": -0.3976313378246586,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2025,7 +2025,7 @@
     "mode": "Rail",
     "latitude": 51.610878194667755,
     "longitude": -0.6420947341660805,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2175,7 +2175,7 @@
     "mode": "Rail",
     "latitude": 51.73190679190633,
     "longitude": -0.4614053731239284,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2195,7 +2195,7 @@
     "mode": "Rail",
     "latitude": 51.70510359639602,
     "longitude": -0.3574775541847626,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2355,7 +2355,7 @@
     "mode": "Rail",
     "latitude": 51.903065819650685,
     "longitude": -1.148514151988735,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -2635,7 +2635,7 @@
     "mode": "Rail",
     "latitude": 51.71694529911552,
     "longitude": -0.3432362797925246,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2745,7 +2745,7 @@
     "mode": "Rail",
     "latitude": 51.70593557589842,
     "longitude": -0.43623263054159217,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2755,7 +2755,7 @@
     "mode": "Rail",
     "latitude": 51.53010845701418,
     "longitude": -0.22257992531718757,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -2805,7 +2805,7 @@
     "mode": "Rail",
     "latitude": 51.73543937445022,
     "longitude": -0.827678354716248,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3015,7 +3015,7 @@
     "mode": "Rail",
     "latitude": 51.5234941932824,
     "longitude": -0.16163740828280204,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3085,7 +3085,7 @@
     "mode": "Rail",
     "latitude": 51.57822295515614,
     "longitude": -0.49591671289729433,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -3275,7 +3275,7 @@
     "mode": "Rail",
     "latitude": 51.62732045834914,
     "longitude": -0.38391377671219357,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3375,7 +3375,7 @@
     "mode": "Rail",
     "latitude": 51.59166968389889,
     "longitude": -0.33298507002413547,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -3445,7 +3445,7 @@
     "mode": "Rail",
     "latitude": 51.628937462692456,
     "longitude": -0.7431797671247207,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -3485,7 +3485,7 @@
     "mode": "Rail",
     "latitude": 51.74179972826583,
     "longitude": -0.48918648489276473,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -3515,7 +3515,7 @@
     "mode": "Rail",
     "latitude": 51.60196470676593,
     "longitude": -0.35513688854219466,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3605,7 +3605,7 @@
     "mode": "Rail",
     "latitude": 51.770765813706085,
     "longitude": -0.9408071643701195,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3845,7 +3845,7 @@
     "mode": "Rail",
     "latitude": 51.76120397359011,
     "longitude": -0.7458720614433925,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -3855,7 +3855,7 @@
     "mode": "Rail",
     "latitude": 51.55378616767537,
     "longitude": -0.2834455106333597,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -3875,7 +3875,7 @@
     "mode": "Rail",
     "latitude": 51.663120732834344,
     "longitude": -0.3943101184107608,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -3885,7 +3885,7 @@
     "mode": "Rail",
     "latitude": 51.65179545699034,
     "longitude": -0.39080692523784577,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -3965,7 +3965,7 @@
     "mode": "Rail",
     "latitude": 51.53165533312399,
     "longitude": -0.24227437713598712,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -3985,7 +3985,7 @@
     "mode": "Rail",
     "latitude": 51.56893556530428,
     "longitude": -0.4349063252769799,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4085,7 +4085,7 @@
     "mode": "Rail",
     "latitude": 51.717331294212194,
     "longitude": -0.8424940227143068,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -4225,7 +4225,7 @@
     "mode": "Rail",
     "latitude": 51.53356209754674,
     "longitude": -0.2036992079336177,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4255,7 +4255,7 @@
     "mode": "Rail",
     "latitude": 51.557000294862945,
     "longitude": -0.357827396392746,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4265,7 +4265,7 @@
     "mode": "Rail",
     "latitude": 51.56200179617901,
     "longitude": -0.3023122486631574,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4355,7 +4355,7 @@
     "mode": "Rail",
     "latitude": 51.5580290942475,
     "longitude": -0.3344752568839094,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4385,7 +4385,7 @@
     "mode": "Rail",
     "latitude": 51.55386381002014,
     "longitude": -0.3142285420059638,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4485,7 +4485,7 @@
     "mode": "Rail",
     "latitude": 51.540924819433016,
     "longitude": -0.1772756850840339,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4555,7 +4555,7 @@
     "mode": "Rail",
     "latitude": 51.609325119870356,
     "longitude": -0.6062634493394568,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4595,7 +4595,7 @@
     "mode": "Rail",
     "latitude": 51.56970198618263,
     "longitude": -0.30680217028853474,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4615,7 +4615,7 @@
     "mode": "Rail",
     "latitude": 51.74412372544455,
     "longitude": -0.3407933722922685,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -4645,7 +4645,7 @@
     "mode": "Rail",
     "latitude": 51.8305288917711,
     "longitude": -0.8581137979129912,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -6975,7 +6975,7 @@
     "mode": "Rail",
     "latitude": 51.85607414160139,
     "longitude": -0.11781557545124188,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7105,7 +7105,7 @@
     "mode": "Rail",
     "latitude": 51.51807016790682,
     "longitude": -0.08679487713616559,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7215,7 +7215,7 @@
     "mode": "Rail",
     "latitude": 51.633667481022485,
     "longitude": -0.09918940747399144,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7335,7 +7335,7 @@
     "mode": "Rail",
     "latitude": 51.90105842411202,
     "longitude": -0.20535686955372998,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -7445,7 +7445,7 @@
     "mode": "Rail",
     "latitude": 51.88199121772589,
     "longitude": -0.41227136052345276,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -7455,7 +7455,7 @@
     "mode": "Rail",
     "latitude": 51.65250146869887,
     "longitude": -0.2782724032857063,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -7495,7 +7495,7 @@
     "mode": "Rail",
     "latitude": 51.96099226609805,
     "longitude": -0.4937344914225776,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7505,7 +7505,7 @@
     "mode": "Rail",
     "latitude": 51.52015917406262,
     "longitude": -0.10355975067456631,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7535,7 +7535,7 @@
     "mode": "Rail",
     "latitude": 51.55855729383705,
     "longitude": 0.07063010727740074,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7545,7 +7545,7 @@
     "mode": "Rail",
     "latitude": 51.53941041957563,
     "longitude": 0.0817602831485352,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7615,7 +7615,7 @@
     "mode": "Rail",
     "latitude": 51.68423293037998,
     "longitude": -0.10559368770372123,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7655,7 +7655,7 @@
     "mode": "Rail",
     "latitude": 51.59737847454889,
     "longitude": -0.11869814118985061,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7745,7 +7745,7 @@
     "mode": "Rail",
     "latitude": 51.79817910296541,
     "longitude": -0.09066742177692502,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -7765,7 +7765,7 @@
     "mode": "Rail",
     "latitude": 51.866614999201715,
     "longitude": -0.18540349421547797,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7945,7 +7945,7 @@
     "mode": "Rail",
     "latitude": 51.798763039222145,
     "longitude": -0.07080005592873308,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -7955,7 +7955,7 @@
     "mode": "Rail",
     "latitude": 51.53396824625105,
     "longitude": -0.2185360901509581,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -7995,7 +7995,7 @@
     "mode": "Rail",
     "latitude": 51.565293951456546,
     "longitude": 0.1134781188842819,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -8005,7 +8005,7 @@
     "mode": "Rail",
     "latitude": 51.592732499515996,
     "longitude": 0.23584268957850318,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -8015,7 +8015,7 @@
     "mode": "Rail",
     "latitude": 51.54824667141551,
     "longitude": -0.059059037590800535,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8105,7 +8105,7 @@
     "mode": "Rail",
     "latitude": 51.52565565023134,
     "longitude": 0.14728372008234406,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8145,7 +8145,7 @@
     "mode": "Rail",
     "latitude": 51.58147545685847,
     "longitude": 0.20764465319942502,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8185,7 +8185,7 @@
     "mode": "Rail",
     "latitude": 51.58828894296482,
     "longitude": -0.05814664670073962,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8205,7 +8205,7 @@
     "mode": "Rail",
     "latitude": 51.5863551772708,
     "longitude": -0.00030707647527237824,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8245,7 +8245,7 @@
     "mode": "Rail",
     "latitude": 51.548637330308004,
     "longitude": 0.04653630005199677,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8305,7 +8305,7 @@
     "mode": "Rail",
     "latitude": 51.56437572386105,
     "longitude": -0.07072436523586284,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8345,7 +8345,7 @@
     "mode": "Rail",
     "latitude": 51.57419784124069,
     "longitude": 0.18418337957019498,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8405,7 +8405,7 @@
     "mode": "Rail",
     "latitude": 51.77496108510571,
     "longitude": 0.03823411345355738,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8425,7 +8425,7 @@
     "mode": "Rail",
     "latitude": 51.64784981282214,
     "longitude": -0.050903641244990694,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8475,7 +8475,7 @@
     "mode": "Rail",
     "latitude": 51.58263283146157,
     "longitude": -0.0734733957063246,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8555,7 +8555,7 @@
     "mode": "Rail",
     "latitude": 51.54453818133222,
     "longitude": -0.20103125673686298,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8565,7 +8565,7 @@
     "mode": "Rail",
     "latitude": 51.65477232786118,
     "longitude": -0.02920740111058577,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8575,7 +8575,7 @@
     "mode": "Rail",
     "latitude": 51.61309143527389,
     "longitude": 0.3016061641676213,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8605,7 +8605,7 @@
     "mode": "Rail",
     "latitude": 51.64117642929497,
     "longitude": -0.06775479367630227,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8635,7 +8635,7 @@
     "mode": "Rail",
     "latitude": 51.58612154772146,
     "longitude": -0.0397596085956308,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -8655,7 +8655,7 @@
     "mode": "Rail",
     "latitude": 51.86612756382686,
     "longitude": 0.16696607943231973,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8675,7 +8675,7 @@
     "mode": "Rail",
     "latitude": 51.618081608370815,
     "longitude": -0.10863913208664747,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8685,7 +8685,7 @@
     "mode": "Rail",
     "latitude": 51.5308,
     "longitude": -0.1238,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -8695,7 +8695,7 @@
     "mode": "Rail",
     "latitude": 51.56609669878981,
     "longitude": -0.035151909819618424,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8735,7 +8735,7 @@
     "mode": "Rail",
     "latitude": 52.135558714085846,
     "longitude": -0.4780614590413071,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -8845,7 +8845,7 @@
     "mode": "Rail",
     "latitude": 51.69699839536239,
     "longitude": -0.19141602407213235,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -8895,7 +8895,7 @@
     "mode": "Rail",
     "latitude": 51.735635504531665,
     "longitude": -0.20858751187314567,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9015,7 +9015,7 @@
     "mode": "Rail",
     "latitude": 51.63718161609453,
     "longitude": -0.1646019231436217,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9125,7 +9125,7 @@
     "mode": "Rail",
     "latitude": 51.613295380809845,
     "longitude": -0.14118175362373142,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9135,7 +9135,7 @@
     "mode": "Rail",
     "latitude": 51.64774048211587,
     "longitude": -0.1709844098998552,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9215,7 +9215,7 @@
     "mode": "Rail",
     "latitude": 51.82321241953518,
     "longitude": -0.1905152881832257,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9285,7 +9285,7 @@
     "mode": "Rail",
     "latitude": 51.547947120952976,
     "longitude": -0.1911168172827404,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -9555,7 +9555,7 @@
     "mode": "Rail",
     "latitude": 51.904975194705514,
     "longitude": -0.45677729803284767,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9695,7 +9695,7 @@
     "mode": "Rail",
     "latitude": 51.814387071055435,
     "longitude": -0.34983556197859067,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -9705,7 +9705,7 @@
     "mode": "Rail",
     "latitude": 51.57971114461941,
     "longitude": -0.23715828082165424,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9765,7 +9765,7 @@
     "mode": "Rail",
     "latitude": 51.606511196832244,
     "longitude": -0.1189705280786708,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9825,7 +9825,7 @@
     "mode": "Rail",
     "latitude": 51.54131846637153,
     "longitude": -0.0020948740443738276,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -9845,7 +9845,7 @@
     "mode": "Rail",
     "latitude": 51.720462566528056,
     "longitude": -0.2031928189458639,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9865,7 +9865,7 @@
     "mode": "Rail",
     "latitude": 51.50802500124538,
     "longitude": -0.2612711326253086,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -9905,7 +9905,7 @@
     "mode": "Rail",
     "latitude": 51.54658422132043,
     "longitude": -0.04128662557981851,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10095,7 +10095,7 @@
     "mode": "Rail",
     "latitude": 51.55251757903457,
     "longitude": -0.10408946756139588,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10165,7 +10165,7 @@
     "mode": "Rail",
     "latitude": 51.70862856392249,
     "longitude": -0.10817897359738618,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10265,7 +10265,7 @@
     "mode": "Rail",
     "latitude": 51.545475734093245,
     "longitude": -0.10298310744134358,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -10345,7 +10345,7 @@
     "mode": "Rail",
     "latitude": 51.757539789204166,
     "longitude": -0.09406351204684857,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10435,7 +10435,7 @@
     "mode": "Rail",
     "latitude": 51.76382467641904,
     "longitude": -0.21421112303042095,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -10585,7 +10585,7 @@
     "mode": "Rail",
     "latitude": 51.54019659199445,
     "longitude": -0.0946645965289498,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -10595,7 +10595,7 @@
     "mode": "Rail",
     "latitude": 51.652175754893996,
     "longitude": -0.08920533259976857,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10635,7 +10635,7 @@
     "mode": "Rail",
     "latitude": 51.668264374590485,
     "longitude": -0.17452555183749446,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10695,7 +10695,7 @@
     "mode": "Rail",
     "latitude": 51.642688733957186,
     "longitude": -0.09535735069053931,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10725,7 +10725,7 @@
     "mode": "Rail",
     "latitude": 51.60837646994722,
     "longitude": 0.0015128591202045773,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10735,7 +10735,7 @@
     "mode": "Rail",
     "latitude": 51.476559171507596,
     "longitude": -0.2833942466890962,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10745,7 +10745,7 @@
     "mode": "Rail",
     "latitude": 51.546599857878704,
     "longitude": -0.14515661974166924,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10795,7 +10795,7 @@
     "mode": "Rail",
     "latitude": 51.49102350011307,
     "longitude": -0.27378918025276905,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10805,7 +10805,7 @@
     "mode": "Rail",
     "latitude": 51.475950357130586,
     "longitude": 0.32254932654616314,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10815,7 +10815,7 @@
     "mode": "Rail",
     "latitude": 51.554992729018124,
     "longitude": -0.1498357620699442,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -10835,7 +10835,7 @@
     "mode": "Rail",
     "latitude": 51.5768154269393,
     "longitude": -0.0961499847818815,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10845,7 +10845,7 @@
     "mode": "Rail",
     "latitude": 51.78081255564966,
     "longitude": 0.09669861746941628,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10855,7 +10855,7 @@
     "mode": "Rail",
     "latitude": 51.79025070485328,
     "longitude": 0.13494461190836218,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10875,7 +10875,7 @@
     "mode": "Rail",
     "latitude": 51.54293440200034,
     "longitude": -0.02262080300065165,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -10885,7 +10885,7 @@
     "mode": "Rail",
     "latitude": 51.554804399034644,
     "longitude": -0.1636067216102616,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -10935,7 +10935,7 @@
     "mode": "Rail",
     "latitude": 51.55178511773351,
     "longitude": 0.047052689655391854,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10945,7 +10945,7 @@
     "mode": "Rail",
     "latitude": 51.545496983994695,
     "longitude": 0.0075938185464614946,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10965,7 +10965,7 @@
     "mode": "Rail",
     "latitude": 51.56330698519126,
     "longitude": 0.009547150980909188,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -10975,7 +10975,7 @@
     "mode": "Rail",
     "latitude": 51.5688926550034,
     "longitude": -0.005244353983589276,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11025,7 +11025,7 @@
     "mode": "Rail",
     "latitude": 51.624144711589,
     "longitude": -0.05969352408307592,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11045,7 +11045,7 @@
     "mode": "Rail",
     "latitude": 51.54064485783095,
     "longitude": -0.0562095693199715,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11095,7 +11095,7 @@
     "mode": "Rail",
     "latitude": 51.547693429353245,
     "longitude": -0.07460375159635256,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11105,7 +11105,7 @@
     "mode": "Rail",
     "latitude": 51.50932870413731,
     "longitude": 0.028242262382334862,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11135,7 +11135,7 @@
     "mode": "Rail",
     "latitude": 51.701942761247416,
     "longitude": -0.02223678943188894,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11145,7 +11145,7 @@
     "mode": "Rail",
     "latitude": 51.56748444138226,
     "longitude": 0.1296131484020398,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11165,7 +11165,7 @@
     "mode": "Rail",
     "latitude": 51.6321789666554,
     "longitude": 0.011188435964594267,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11175,7 +11175,7 @@
     "mode": "Rail",
     "latitude": 51.561363711945624,
     "longitude": -0.0549797389512938,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11185,7 +11185,7 @@
     "mode": "Rail",
     "latitude": 51.510819144451595,
     "longitude": -0.07566906781760852,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11225,7 +11225,7 @@
     "mode": "Rail",
     "latitude": 51.54883410907357,
     "longitude": 0.02535416443128326,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11265,7 +11265,7 @@
     "mode": "Rail",
     "latitude": 51.651130440635924,
     "longitude": -0.07696027260129411,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11275,7 +11275,7 @@
     "mode": "Rail",
     "latitude": 51.67023885021276,
     "longitude": -0.02693054238179451,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11285,7 +11285,7 @@
     "mode": "Rail",
     "latitude": 51.56809147929649,
     "longitude": 0.22199081373983626,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11315,7 +11315,7 @@
     "mode": "Rail",
     "latitude": 51.56294037807623,
     "longitude": -0.1281285173471637,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11325,7 +11325,7 @@
     "mode": "Rail",
     "latitude": 51.558540163901625,
     "longitude": 0.2530956302288059,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11335,7 +11335,7 @@
     "mode": "Rail",
     "latitude": 51.67269639993981,
     "longitude": -0.04535293031435804,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11365,7 +11365,7 @@
     "mode": "Rail",
     "latitude": 51.58057712021609,
     "longitude": -0.030903982353679943,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11375,7 +11375,7 @@
     "mode": "Rail",
     "latitude": 51.58241365534631,
     "longitude": -0.018193112373133445,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11385,7 +11385,7 @@
     "mode": "Rail",
     "latitude": 51.684359431144564,
     "longitude": -0.024840796769464896,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11405,7 +11405,7 @@
     "mode": "Rail",
     "latitude": 51.807481525915215,
     "longitude": -0.02715110495470114,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11435,7 +11435,7 @@
     "mode": "Rail",
     "latitude": 51.69162991609094,
     "longitude": -0.03364077788066255,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11445,7 +11445,7 @@
     "mode": "Rail",
     "latitude": 51.551235432599945,
     "longitude": 0.027956570058955816,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11515,7 +11515,7 @@
     "mode": "Rail",
     "latitude": 51.546777893343254,
     "longitude": -0.19052852581324506,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -11525,7 +11525,7 @@
     "mode": "Rail",
     "latitude": 51.52804053513787,
     "longitude": 0.007575449244129538,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11575,7 +11575,7 @@
     "mode": "Rail",
     "latitude": 51.60428395442142,
     "longitude": -0.06932172126935597,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11605,7 +11605,7 @@
     "mode": "Rail",
     "latitude": 51.48042420862456,
     "longitude": 0.23868412241129505,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11615,7 +11615,7 @@
     "mode": "Rail",
     "latitude": 51.642195040781324,
     "longitude": -0.03323654973599187,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11635,7 +11635,7 @@
     "mode": "Rail",
     "latitude": 51.55837669480548,
     "longitude": -0.06688067096118917,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11645,7 +11645,7 @@
     "mode": "Rail",
     "latitude": 51.516206144549656,
     "longitude": 0.19231973963710638,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11665,7 +11665,7 @@
     "mode": "Rail",
     "latitude": 51.60103750195428,
     "longitude": -0.05246145385488341,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -11675,7 +11675,7 @@
     "mode": "Rail",
     "latitude": 51.521299722195785,
     "longitude": 0.2918842747646215,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11725,7 +11725,7 @@
     "mode": "Rail",
     "latitude": 51.57995283620817,
     "longitude": -0.07019451441303988,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -11735,7 +11735,7 @@
     "mode": "Rail",
     "latitude": 51.61463291716375,
     "longitude": -0.06534321492291907,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11745,7 +11745,7 @@
     "mode": "Rail",
     "latitude": 51.499128437779426,
     "longitude": -0.2684253133779109,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11765,7 +11765,7 @@
     "mode": "Rail",
     "latitude": 51.51219845720614,
     "longitude": -0.03787594381084553,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11775,7 +11775,7 @@
     "mode": "Rail",
     "latitude": 51.888426873579554,
     "longitude": 0.2631956057450056,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11785,7 +11785,7 @@
     "mode": "Rail",
     "latitude": 51.900805134326596,
     "longitude": 0.20093909736387633,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11795,7 +11795,7 @@
     "mode": "Rail",
     "latitude": 51.574343007473125,
     "longitude": -0.07470442863012887,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11815,7 +11815,7 @@
     "mode": "Rail",
     "latitude": 51.45457082135907,
     "longitude": -0.3188106604526678,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11835,7 +11835,7 @@
     "mode": "Rail",
     "latitude": 51.81422341885365,
     "longitude": 0.16222540584664527,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11855,7 +11855,7 @@
     "mode": "Rail",
     "latitude": 51.768577805563574,
     "longitude": 0.007288671012171432,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11875,7 +11875,7 @@
     "mode": "Rail",
     "latitude": 51.563406208006874,
     "longitude": 0.09789253335029176,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -11885,7 +11885,7 @@
     "mode": "Rail",
     "latitude": 51.63015246458921,
     "longitude": 0.3317060371452462,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11945,7 +11945,7 @@
     "mode": "Rail",
     "latitude": 51.48507098297563,
     "longitude": 0.2891446984489055,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -11955,7 +11955,7 @@
     "mode": "Rail",
     "latitude": 51.54962183405947,
     "longitude": -0.18193361519753432,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12055,7 +12055,7 @@
     "mode": "Rail",
     "latitude": 51.59317089867049,
     "longitude": -0.06840689661737312,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12085,7 +12085,7 @@
     "mode": "Rail",
     "latitude": 51.54803953865498,
     "longitude": -0.09137978176151776,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -12095,7 +12095,7 @@
     "mode": "Rail",
     "latitude": 51.541435568316814,
     "longitude": -0.13765047425605406,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -12105,7 +12105,7 @@
     "mode": "Rail",
     "latitude": 51.531428277728345,
     "longitude": -0.05578033241701707,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12115,7 +12115,7 @@
     "mode": "Rail",
     "latitude": 51.74641558472251,
     "longitude": -0.008950266041265427,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12165,7 +12165,7 @@
     "mode": "Rail",
     "latitude": 51.54303347826968,
     "longitude": -0.11326756031284244,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -12195,7 +12195,7 @@
     "mode": "Rail",
     "latitude": 51.531430303398615,
     "longitude": -0.12495147204799412,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -12235,7 +12235,7 @@
     "mode": "Rail",
     "latitude": 51.609855411217545,
     "longitude": -0.04838618885952474,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12275,7 +12275,7 @@
     "mode": "Rail",
     "latitude": 51.167855827964395,
     "longitude": -0.15946496619011039,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -12305,7 +12305,7 @@
     "mode": "Rail",
     "latitude": 51.31734260704368,
     "longitude": -0.3059933680536561,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12355,7 +12355,7 @@
     "mode": "Rail",
     "latitude": 51.43598703365037,
     "longitude": -0.4667940309478631,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12385,7 +12385,7 @@
     "mode": "Rail",
     "latitude": 51.46628528159232,
     "longitude": -0.2395035236838176,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12405,7 +12405,7 @@
     "mode": "Rail",
     "latitude": 51.442430102282984,
     "longitude": -0.14988471128726438,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12415,7 +12415,7 @@
     "mode": "Rail",
     "latitude": 51.28934050959849,
     "longitude": 0.19558050835388063,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12475,7 +12475,7 @@
     "mode": "Rail",
     "latitude": 51.49718937310969,
     "longitude": -0.2081988180261447,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12515,7 +12515,7 @@
     "mode": "Rail",
     "latitude": 51.401257112812765,
     "longitude": -0.34086736804737183,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12525,7 +12525,7 @@
     "mode": "Rail",
     "latitude": 51.41238958395261,
     "longitude": -0.29997964979908714,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12535,7 +12535,7 @@
     "mode": "Rail",
     "latitude": 51.4140547640264,
     "longitude": -0.3106470811144137,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12565,7 +12565,7 @@
     "mode": "Rail",
     "latitude": 51.46153182388426,
     "longitude": 0.029505492803633272,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12585,7 +12585,7 @@
     "mode": "Rail",
     "latitude": 51.482172590323586,
     "longitude": 0.004940648983271158,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12625,7 +12625,7 @@
     "mode": "Rail",
     "latitude": 51.40343402563332,
     "longitude": -0.2542413849412394,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12645,7 +12645,7 @@
     "mode": "Rail",
     "latitude": 51.47612659752642,
     "longitude": -0.031013607715702968,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12665,7 +12665,7 @@
     "mode": "Rail",
     "latitude": 51.43972115093181,
     "longitude": 0.05175100987036238,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12675,7 +12675,7 @@
     "mode": "Rail",
     "latitude": 51.3947261641502,
     "longitude": -0.2378819971412276,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12695,7 +12695,7 @@
     "mode": "Rail",
     "latitude": 51.298337128431086,
     "longitude": -0.33154058968315564,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12715,7 +12715,7 @@
     "mode": "Rail",
     "latitude": 51.46500535953943,
     "longitude": -0.01206840623990971,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12745,7 +12745,7 @@
     "mode": "Rail",
     "latitude": 51.42424117862358,
     "longitude": -0.08306358293040354,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12785,7 +12785,7 @@
     "mode": "Rail",
     "latitude": 51.45451343099553,
     "longitude": -0.0346934726528118,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12815,7 +12815,7 @@
     "mode": "Rail",
     "latitude": 51.407997362417596,
     "longitude": -0.03897554617981958,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12825,7 +12825,7 @@
     "mode": "Rail",
     "latitude": 51.24046516893713,
     "longitude": -0.32227343602612857,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12835,7 +12835,7 @@
     "mode": "Rail",
     "latitude": 51.467682596795996,
     "longitude": -0.08757893733475129,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -12855,7 +12855,7 @@
     "mode": "Rail",
     "latitude": 51.46406257104775,
     "longitude": -0.16896582272952534,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -12865,7 +12865,7 @@
     "mode": "Rail",
     "latitude": 51.41743741513939,
     "longitude": -0.0707337108188161,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12885,7 +12885,7 @@
     "mode": "Rail",
     "latitude": 51.48623458366547,
     "longitude": 0.032287864282800144,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12895,7 +12895,7 @@
     "mode": "Rail",
     "latitude": 51.507112473825956,
     "longitude": -0.12218862499472215,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12905,7 +12905,7 @@
     "mode": "Rail",
     "latitude": 51.3605738527752,
     "longitude": -0.3468344241072291,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12915,7 +12915,7 @@
     "mode": "Rail",
     "latitude": 51.368070101825936,
     "longitude": -0.16473761329661915,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12925,7 +12925,7 @@
     "mode": "Rail",
     "latitude": 51.464783388527756,
     "longitude": -0.13030567750521477,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12935,7 +12935,7 @@
     "mode": "Rail",
     "latitude": 51.26350887255194,
     "longitude": -0.5013684378715817,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12945,7 +12945,7 @@
     "mode": "Rail",
     "latitude": 51.51342440110901,
     "longitude": -0.10198011441178963,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -12955,7 +12955,7 @@
     "mode": "Rail",
     "latitude": 51.38664074989687,
     "longitude": -0.5079134873367791,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -12995,7 +12995,7 @@
     "mode": "Rail",
     "latitude": 51.405029678519895,
     "longitude": 0.05904133162983634,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13015,7 +13015,7 @@
     "mode": "Rail",
     "latitude": 51.447488201090486,
     "longitude": -0.4080035434488023,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13025,7 +13025,7 @@
     "mode": "Rail",
     "latitude": 51.379554560665326,
     "longitude": -0.3516117239249555,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13065,7 +13065,7 @@
     "mode": "Rail",
     "latitude": 51.43875748779675,
     "longitude": -0.051458626316019475,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13125,7 +13125,7 @@
     "mode": "Rail",
     "latitude": 51.375886382995986,
     "longitude": -0.09106279845752537,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13145,7 +13145,7 @@
     "mode": "Rail",
     "latitude": 51.44224192464116,
     "longitude": -0.18559741544763672,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13175,7 +13175,7 @@
     "mode": "Rail",
     "latitude": 51.22687407207568,
     "longitude": -0.16920062706371916,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13185,7 +13185,7 @@
     "mode": "Rail",
     "latitude": 51.39777454004511,
     "longitude": -0.047780675915959,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13195,7 +13195,7 @@
     "mode": "Rail",
     "latitude": 51.41269166770741,
     "longitude": -0.4292464093237843,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13235,7 +13235,7 @@
     "mode": "Rail",
     "latitude": 51.46933681812016,
     "longitude": -0.136685907823033,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13255,7 +13255,7 @@
     "mode": "Rail",
     "latitude": 51.36686934975137,
     "longitude": -0.11573393871301069,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13265,7 +13265,7 @@
     "mode": "Rail",
     "latitude": 51.374890924526724,
     "longitude": -0.19448425700068236,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13275,7 +13275,7 @@
     "mode": "Rail",
     "latitude": 51.46971329075052,
     "longitude": -0.5576188343746383,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13295,7 +13295,7 @@
     "mode": "Rail",
     "latitude": 51.43777700615088,
     "longitude": -0.12589745743623093,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13305,7 +13305,7 @@
     "mode": "Rail",
     "latitude": 51.41822424610611,
     "longitude": -0.13432093011193985,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13315,7 +13315,7 @@
     "mode": "Rail",
     "latitude": 51.42539208987994,
     "longitude": -0.1297994238440632,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13325,7 +13325,7 @@
     "mode": "Rail",
     "latitude": 51.392627738316776,
     "longitude": 0.1696280451955246,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13345,7 +13345,7 @@
     "mode": "Rail",
     "latitude": 51.43219263554879,
     "longitude": -0.07873073152137713,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13385,7 +13385,7 @@
     "mode": "Rail",
     "latitude": 51.28946663063812,
     "longitude": -0.05026993569994606,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13395,7 +13395,7 @@
     "mode": "Rail",
     "latitude": 51.31832901391161,
     "longitude": -0.5546941761323175,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13435,7 +13435,7 @@
     "mode": "Rail",
     "latitude": 51.409784972700976,
     "longitude": -0.2131715229551548,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13455,7 +13455,7 @@
     "mode": "Rail",
     "latitude": 51.4573496848655,
     "longitude": -0.5403452790779166,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13465,7 +13465,7 @@
     "mode": "Rail",
     "latitude": 51.287584739892914,
     "longitude": -0.5807731293685456,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13475,7 +13475,7 @@
     "mode": "Rail",
     "latitude": 51.38083299435522,
     "longitude": -0.24340278705611842,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13505,7 +13505,7 @@
     "mode": "Rail",
     "latitude": 51.37863465909374,
     "longitude": -0.10023247960829863,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13515,7 +13515,7 @@
     "mode": "Rail",
     "latitude": 51.33903953431928,
     "longitude": -0.5037450847990926,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13525,7 +13525,7 @@
     "mode": "Rail",
     "latitude": 51.36102204658783,
     "longitude": -0.4561256854184091,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13555,7 +13555,7 @@
     "mode": "Rail",
     "latitude": 51.48371252579349,
     "longitude": 0.020018022450657143,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13575,7 +13575,7 @@
     "mode": "Rail",
     "latitude": 51.36576456699887,
     "longitude": -0.20281716125981603,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13605,7 +13605,7 @@
     "mode": "Rail",
     "latitude": 51.3369439319035,
     "longitude": -0.11219444871069821,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13625,7 +13625,7 @@
     "mode": "Rail",
     "latitude": 51.47349533743868,
     "longitude": -0.055494242655449014,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13695,7 +13695,7 @@
     "mode": "Rail",
     "latitude": 51.46638836300594,
     "longitude": -0.05104470316043689,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13705,7 +13705,7 @@
     "mode": "Rail",
     "latitude": 51.396602133308946,
     "longitude": -0.07312022238283485,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13725,7 +13725,7 @@
     "mode": "Rail",
     "latitude": 51.454016783648505,
     "longitude": -0.08620685551850811,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13735,7 +13735,7 @@
     "mode": "Rail",
     "latitude": 51.410965817157084,
     "longitude": -0.12022042689157193,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13755,7 +13755,7 @@
     "mode": "Rail",
     "latitude": 51.416974568086644,
     "longitude": -0.05904490299447038,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13765,7 +13765,7 @@
     "mode": "Rail",
     "latitude": 51.33570483146337,
     "longitude": -0.3607804243590306,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13805,7 +13805,7 @@
     "mode": "Rail",
     "latitude": 51.402927714200146,
     "longitude": -0.20407811647276555,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13815,7 +13815,7 @@
     "mode": "Rail",
     "latitude": 51.321509195009284,
     "longitude": -0.132866042735751,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13835,7 +13835,7 @@
     "mode": "Rail",
     "latitude": 51.39422041030257,
     "longitude": 0.10801205764127517,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13845,7 +13845,7 @@
     "mode": "Rail",
     "latitude": 51.787706266618066,
     "longitude": 0.002569365769993201,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13855,7 +13855,7 @@
     "mode": "Rail",
     "latitude": 51.433467741982916,
     "longitude": 0.10564580804805171,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13895,7 +13895,7 @@
     "mode": "Rail",
     "latitude": 51.201061314943416,
     "longitude": -0.1605896372269267,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -13945,7 +13945,7 @@
     "mode": "Rail",
     "latitude": 51.405239239137146,
     "longitude": 0.003902831765538006,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -13975,7 +13975,7 @@
     "mode": "Rail",
     "latitude": 51.46220340424385,
     "longitude": -0.11130528512460099,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14005,7 +14005,7 @@
     "mode": "Rail",
     "latitude": 51.399488582576254,
     "longitude": 0.02034465816853474,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14015,7 +14015,7 @@
     "mode": "Rail",
     "latitude": 51.46413034649409,
     "longitude": -0.03592167784260274,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14035,7 +14035,7 @@
     "mode": "Rail",
     "latitude": 51.398347286303014,
     "longitude": -0.28002695149407497,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14045,7 +14045,7 @@
     "mode": "Rail",
     "latitude": 51.4917126653505,
     "longitude": 0.15414525745339316,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14055,7 +14055,7 @@
     "mode": "Rail",
     "latitude": 51.43252588851983,
     "longitude": -0.017737950195176672,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14085,7 +14085,7 @@
     "mode": "Rail",
     "latitude": 51.424059065649374,
     "longitude": -0.014335294914767314,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14105,7 +14105,7 @@
     "mode": "Rail",
     "latitude": 51.288294601159386,
     "longitude": -0.3824059556967965,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14125,7 +14125,7 @@
     "mode": "Rail",
     "latitude": 51.474789556098,
     "longitude": -0.1815265338562932,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14135,7 +14135,7 @@
     "mode": "Rail",
     "latitude": 51.505517173114036,
     "longitude": -0.21644681335762997,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14155,7 +14155,7 @@
     "mode": "Rail",
     "latitude": 51.50379658634759,
     "longitude": -0.08289665860703645,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -14165,7 +14165,7 @@
     "mode": "Rail",
     "latitude": 51.49054382045108,
     "longitude": 0.12157303821433181,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14185,7 +14185,7 @@
     "mode": "Rail",
     "latitude": 51.43485337962788,
     "longitude": 0.12752423018260697,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14195,7 +14195,7 @@
     "mode": "Rail",
     "latitude": 51.37266969923517,
     "longitude": -0.483063873830061,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14205,7 +14205,7 @@
     "mode": "Rail",
     "latitude": 51.49063583500176,
     "longitude": 0.05634172141372166,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14225,7 +14225,7 @@
     "mode": "Rail",
     "latitude": 51.474357916294046,
     "longitude": -0.3353071022764238,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14255,7 +14255,7 @@
     "mode": "Rail",
     "latitude": 51.46142107358872,
     "longitude": -0.3605266222797326,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14265,7 +14265,7 @@
     "mode": "Rail",
     "latitude": 51.27886785417809,
     "longitude": -0.43388747731239474,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14325,7 +14325,7 @@
     "mode": "Rail",
     "latitude": 51.41185945414884,
     "longitude": -0.06407957419670249,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14355,7 +14355,7 @@
     "mode": "Rail",
     "latitude": 51.476885069758794,
     "longitude": -0.14592703710938854,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14385,7 +14385,7 @@
     "mode": "Rail",
     "latitude": 51.47133699373204,
     "longitude": -0.2507429837073385,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14395,7 +14395,7 @@
     "mode": "Rail",
     "latitude": 51.32890824771871,
     "longitude": -0.21221184776465807,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14405,7 +14405,7 @@
     "mode": "Rail",
     "latitude": 51.45342997794749,
     "longitude": -0.10100074248374845,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -14435,7 +14435,7 @@
     "mode": "Rail",
     "latitude": 51.37457390770047,
     "longitude": -0.3390014617698311,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14475,7 +14475,7 @@
     "mode": "Rail",
     "latitude": 51.37605405647244,
     "longitude": 0.011250389618092414,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14505,7 +14505,7 @@
     "mode": "Rail",
     "latitude": 51.48915555470259,
     "longitude": -0.2862344913901807,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14515,7 +14515,7 @@
     "mode": "Rail",
     "latitude": 51.32427922658752,
     "longitude": -0.0993218362649789,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14555,7 +14555,7 @@
     "mode": "Rail",
     "latitude": 51.42967133990806,
     "longitude": 0.02455365365507017,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14625,7 +14625,7 @@
     "mode": "Rail",
     "latitude": 51.43753630947379,
     "longitude": 0.07215935928307206,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14635,7 +14635,7 @@
     "mode": "Rail",
     "latitude": 51.47534329857264,
     "longitude": -0.039011696493814314,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14645,7 +14645,7 @@
     "mode": "Rail",
     "latitude": 51.4162620719828,
     "longitude": -0.03357319421532727,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14675,7 +14675,7 @@
     "mode": "Rail",
     "latitude": 51.3452566727475,
     "longitude": 0.13236147973258974,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14695,7 +14695,7 @@
     "mode": "Rail",
     "latitude": 51.424252699768154,
     "longitude": -0.031676447820051135,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14735,7 +14735,7 @@
     "mode": "Rail",
     "latitude": 51.3152932239049,
     "longitude": -0.13617536996767954,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14765,7 +14765,7 @@
     "mode": "Rail",
     "latitude": 51.44778297150258,
     "longitude": 0.18057628395762682,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14815,7 +14815,7 @@
     "mode": "Rail",
     "latitude": 51.317461411758316,
     "longitude": -0.387666265404341,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14845,7 +14845,7 @@
     "mode": "Rail",
     "latitude": 51.47835504101241,
     "longitude": -0.02447945826882201,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -14865,7 +14865,7 @@
     "mode": "Rail",
     "latitude": 51.482506829639775,
     "longitude": -0.5779273600962342,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14895,7 +14895,7 @@
     "mode": "Rail",
     "latitude": 51.35522858754384,
     "longitude": -0.2125231051299022,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14915,7 +14915,7 @@
     "mode": "Rail",
     "latitude": 51.28223093342713,
     "longitude": -0.077179890419539,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14935,7 +14935,7 @@
     "mode": "Rail",
     "latitude": 51.48057232160452,
     "longitude": -0.2664204952446207,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14945,7 +14945,7 @@
     "mode": "Rail",
     "latitude": 51.3563357284948,
     "longitude": -0.3063938097348272,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -14955,7 +14955,7 @@
     "mode": "Rail",
     "latitude": 51.36369196700464,
     "longitude": -0.2989104227523536,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15005,7 +15005,7 @@
     "mode": "Rail",
     "latitude": 51.36200886248141,
     "longitude": 0.20589355046419905,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15015,7 +15015,7 @@
     "mode": "Rail",
     "latitude": 51.349679673550376,
     "longitude": -0.25548117103700435,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15055,7 +15055,7 @@
     "mode": "Rail",
     "latitude": 51.155954973387125,
     "longitude": -0.15935226455308146,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -15065,7 +15065,7 @@
     "mode": "Rail",
     "latitude": 51.433291770975416,
     "longitude": -0.3478650811437758,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15085,7 +15085,7 @@
     "mode": "Rail",
     "latitude": 51.481159412635435,
     "longitude": 0.17672353473006105,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15105,7 +15105,7 @@
     "mode": "Rail",
     "latitude": 51.38965311380423,
     "longitude": -0.02470933718665622,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15125,7 +15125,7 @@
     "mode": "Rail",
     "latitude": 51.323634590786,
     "longitude": -0.2369051081198257,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15135,7 +15135,7 @@
     "mode": "Rail",
     "latitude": 51.333862981804664,
     "longitude": -0.2678115781541628,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15145,7 +15145,7 @@
     "mode": "Rail",
     "latitude": 51.49351465938078,
     "longitude": -0.09711631127295356,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15155,7 +15155,7 @@
     "mode": "Rail",
     "latitude": 51.42898575185794,
     "longitude": -0.5447453680706261,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15165,7 +15165,7 @@
     "mode": "Rail",
     "latitude": 51.29088079494473,
     "longitude": -0.41831757948954384,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15215,7 +15215,7 @@
     "mode": "Rail",
     "latitude": 51.43931252542394,
     "longitude": -0.10338527566397544,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15235,7 +15235,7 @@
     "mode": "Rail",
     "latitude": 51.445685079871424,
     "longitude": -0.1618428485772113,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15245,7 +15245,7 @@
     "mode": "Rail",
     "latitude": 51.372313958035484,
     "longitude": -0.41276808719640434,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -15255,7 +15255,7 @@
     "mode": "Rail",
     "latitude": 51.30788315184749,
     "longitude": -0.07617938882335086,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15275,7 +15275,7 @@
     "mode": "Rail",
     "latitude": 51.35972780723852,
     "longitude": -0.14898172254969855,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15285,7 +15285,7 @@
     "mode": "Rail",
     "latitude": 51.35915131809025,
     "longitude": -0.18919918136730846,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -15295,7 +15295,7 @@
     "mode": "Rail",
     "latitude": 51.41325623847784,
     "longitude": 0.023065944460679357,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15315,7 +15315,7 @@
     "mode": "Rail",
     "latitude": 51.363037714062145,
     "longitude": -0.24661232113717912,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15325,7 +15325,7 @@
     "mode": "Rail",
     "latitude": 51.417694737881874,
     "longitude": -0.41608679767289763,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15335,7 +15335,7 @@
     "mode": "Rail",
     "latitude": 51.39864566785223,
     "longitude": -0.09911577855307299,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -15345,7 +15345,7 @@
     "mode": "Rail",
     "latitude": 51.38857456842767,
     "longitude": -0.3375745152504712,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15355,7 +15355,7 @@
     "mode": "Rail",
     "latitude": 51.308184092831844,
     "longitude": -0.2405394748889016,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15365,7 +15365,7 @@
     "mode": "Rail",
     "latitude": 51.42694320262291,
     "longitude": -0.05275261945815076,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15395,7 +15395,7 @@
     "mode": "Rail",
     "latitude": 51.42105765949371,
     "longitude": -0.20400034841637188,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15425,7 +15425,7 @@
     "mode": "Rail",
     "latitude": 51.30936635258765,
     "longitude": -0.07941783149123295,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15445,7 +15445,7 @@
     "mode": "Rail",
     "latitude": 51.31850808786936,
     "longitude": -0.15232097752565749,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15455,7 +15455,7 @@
     "mode": "Rail",
     "latitude": 51.44013203138099,
     "longitude": -0.08960803065054566,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15475,7 +15475,7 @@
     "mode": "Rail",
     "latitude": 51.501810787273754,
     "longitude": -0.11182945870572752,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15485,7 +15485,7 @@
     "mode": "Rail",
     "latitude": 51.50365201227238,
     "longitude": -0.10721391374653153,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15495,7 +15495,7 @@
     "mode": "Rail",
     "latitude": 51.44892508838419,
     "longitude": -0.35573519094678396,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -15515,7 +15515,7 @@
     "mode": "Rail",
     "latitude": 51.43102831803248,
     "longitude": -0.10165655104301417,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15525,7 +15525,7 @@
     "mode": "Rail",
     "latitude": 51.38093858036874,
     "longitude": -0.013040518018933774,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15535,7 +15535,7 @@
     "mode": "Rail",
     "latitude": 51.30298678859856,
     "longitude": -0.0754085083259378,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15555,7 +15555,7 @@
     "mode": "Rail",
     "latitude": 51.34641248626145,
     "longitude": -0.09707043331131138,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15585,7 +15585,7 @@
     "mode": "Rail",
     "latitude": 51.48927748347359,
     "longitude": 0.08588633210602392,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15595,7 +15595,7 @@
     "mode": "Rail",
     "latitude": 51.330587118964054,
     "longitude": -0.12181602468539798,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15625,7 +15625,7 @@
     "mode": "Rail",
     "latitude": 51.33189906753916,
     "longitude": -0.09778634992680395,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15635,7 +15635,7 @@
     "mode": "Rail",
     "latitude": 51.2395634408485,
     "longitude": -0.16396855867889953,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15645,7 +15645,7 @@
     "mode": "Rail",
     "latitude": 51.40854503724614,
     "longitude": -0.228650392149769,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15655,7 +15655,7 @@
     "mode": "Rail",
     "latitude": 51.41348159148325,
     "longitude": -0.005818956759602254,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15665,7 +15665,7 @@
     "mode": "Rail",
     "latitude": 51.46489488705039,
     "longitude": -0.2846383684130451,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15725,7 +15725,7 @@
     "mode": "Rail",
     "latitude": 51.38793259139877,
     "longitude": 0.07634270192271686,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15735,7 +15735,7 @@
     "mode": "Rail",
     "latitude": 51.4188177615633,
     "longitude": -0.052508276727583146,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15745,7 +15745,7 @@
     "mode": "Rail",
     "latitude": 51.469414392415956,
     "longitude": -0.06813833066544198,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15755,7 +15755,7 @@
     "mode": "Rail",
     "latitude": 51.312531885053765,
     "longitude": 0.19871129501275298,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15775,7 +15775,7 @@
     "mode": "Rail",
     "latitude": 51.3626924193137,
     "longitude": -0.09161154281482174,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15795,7 +15795,7 @@
     "mode": "Rail",
     "latitude": 51.46736037637716,
     "longitude": 0.19180579076536677,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15805,7 +15805,7 @@
     "mode": "Rail",
     "latitude": 51.48743578193548,
     "longitude": -0.05279784601499728,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15825,7 +15825,7 @@
     "mode": "Rail",
     "latitude": 51.388954888682164,
     "longitude": -0.19726553888138676,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15885,7 +15885,7 @@
     "mode": "Rail",
     "latitude": 51.408545103514754,
     "longitude": 0.0193201822565118,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15895,7 +15895,7 @@
     "mode": "Rail",
     "latitude": 51.48712527750056,
     "longitude": -0.30806266804902876,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -15925,7 +15925,7 @@
     "mode": "Rail",
     "latitude": 51.34921440156414,
     "longitude": -0.4795588504709943,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -15945,7 +15945,7 @@
     "mode": "Rail",
     "latitude": 51.439695157305394,
     "longitude": 0.14953756061721213,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -16015,7 +16015,7 @@
     "mode": "Rail",
     "latitude": 51.25345829330316,
     "longitude": -0.3271033574003018,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16045,7 +16045,7 @@
     "mode": "Rail",
     "latitude": 51.46521880186799,
     "longitude": 0.009697698516517805,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -16215,7 +16215,7 @@
     "mode": "Rail",
     "latitude": 51.54655479826497,
     "longitude": -0.05519315515807127,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -16225,7 +16225,7 @@
     "mode": "Rail",
     "latitude": 51.464482110584676,
     "longitude": 0.16178972045167325,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16235,7 +16235,7 @@
     "mode": "Rail",
     "latitude": 51.415430133921824,
     "longitude": -0.3702989355583456,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16255,7 +16255,7 @@
     "mode": "Rail",
     "latitude": 51.29419547438757,
     "longitude": -0.20947245472576664,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16295,7 +16295,7 @@
     "mode": "Rail",
     "latitude": 51.30875036302758,
     "longitude": -0.167808782627714,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16375,7 +16375,7 @@
     "mode": "Rail",
     "latitude": 51.4891486622712,
     "longitude": 0.07184836134145643,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16435,7 +16435,7 @@
     "mode": "Rail",
     "latitude": 51.41055004139999,
     "longitude": -0.024427072153579157,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16805,7 +16805,7 @@
     "mode": "Rail",
     "latitude": 51.50252424549047,
     "longitude": -0.41774381488080303,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -16925,7 +16925,7 @@
     "mode": "Rail",
     "latitude": 51.514281774951456,
     "longitude": -0.2991144542160403,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -16935,7 +16935,7 @@
     "mode": "Rail",
     "latitude": 51.51132670127567,
     "longitude": -0.33700081477452304,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -17155,7 +17155,7 @@
     "mode": "Rail",
     "latitude": 51.515928615274646,
     "longitude": -0.32858818091782355,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -17605,7 +17605,7 @@
     "mode": "Rail",
     "latitude": 51.517883897398505,
     "longitude": -0.7215040682427336,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -17715,7 +17715,7 @@
     "mode": "Rail",
     "latitude": 51.5073509547144,
     "longitude": -0.5395548493374172,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -17745,7 +17745,7 @@
     "mode": "Rail",
     "latitude": 51.50817569536724,
     "longitude": -0.505084717801472,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -18065,7 +18065,7 @@
     "mode": "Rail",
     "latitude": 51.516495624925184,
     "longitude": -0.2660513255133634,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -18245,7 +18245,7 @@
     "mode": "Rail",
     "latitude": 51.52241362140737,
     "longitude": -0.3299076930047596,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -18405,7 +18405,7 @@
     "mode": "Rail",
     "latitude": 51.52286259474217,
     "longitude": -0.6450894172492816,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -18675,7 +18675,7 @@
     "mode": "Rail",
     "latitude": 51.53279920685287,
     "longitude": -0.3348484398068405,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -18695,7 +18695,7 @@
     "mode": "Rail",
     "latitude": 51.5116083027754,
     "longitude": -0.5898196875208828,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -18905,7 +18905,7 @@
     "mode": "Rail",
     "latitude": 51.51623428033848,
     "longitude": -0.17532106740448966,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -19105,7 +19105,7 @@
     "mode": "Rail",
     "latitude": 51.50561252905492,
     "longitude": -0.3759025848240295,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -19215,7 +19215,7 @@
     "mode": "Rail",
     "latitude": 51.50934573231774,
     "longitude": -0.4702845899052202,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -19315,7 +19315,7 @@
     "mode": "Rail",
     "latitude": 51.474878189779034,
     "longitude": -0.8619045729281749,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -19455,7 +19455,7 @@
     "mode": "Rail",
     "latitude": 51.48293961584419,
     "longitude": -0.6095152922517084,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -19825,7 +19825,7 @@
     "mode": "Rail",
     "latitude": 51.522865329658295,
     "longitude": -0.6800338605877937,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21355,7 +21355,7 @@
     "mode": "Rail",
     "latitude": 51.525160853180985,
     "longitude": -0.08592091569698895,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21375,7 +21375,7 @@
     "mode": "Rail",
     "latitude": 51.80017834171401,
     "longitude": -0.2020555552531002,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21455,7 +21455,7 @@
     "mode": "Rail",
     "latitude": 51.61233629853853,
     "longitude": -0.24719044001050725,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21475,7 +21475,7 @@
     "mode": "Rail",
     "latitude": 51.87245298306391,
     "longitude": -0.3946071609622726,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21485,7 +21485,7 @@
     "mode": "Rail",
     "latitude": 51.558228948431946,
     "longitude": -0.21121096153921834,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21495,7 +21495,7 @@
     "mode": "Rail",
     "latitude": 52.00309545684815,
     "longitude": -0.4930498015643765,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21625,7 +21625,7 @@
     "mode": "Rail",
     "latitude": 51.576837799248395,
     "longitude": -0.10364031796024678,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21635,7 +21635,7 @@
     "mode": "Rail",
     "latitude": 51.58571687080812,
     "longitude": -0.10992595899722657,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21685,7 +21685,7 @@
     "mode": "Rail",
     "latitude": 51.564156344940095,
     "longitude": -0.1047164136881064,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21735,7 +21735,7 @@
     "mode": "Rail",
     "latitude": 51.662519688739195,
     "longitude": -0.09261681343422552,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21755,7 +21755,7 @@
     "mode": "Rail",
     "latitude": 51.51811088782786,
     "longitude": -0.07993139842713015,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -21765,7 +21765,7 @@
     "mode": "Rail",
     "latitude": 51.570954147034946,
     "longitude": -0.11524333158928377,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21775,7 +21775,7 @@
     "mode": "Rail",
     "latitude": 51.58105991379685,
     "longitude": -0.022178487515808785,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21795,7 +21795,7 @@
     "mode": "Rail",
     "latitude": 51.684866124270165,
     "longitude": -0.3153560495428059,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21805,7 +21805,7 @@
     "mode": "Rail",
     "latitude": 51.75002959294456,
     "longitude": -0.32603017842221144,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21815,7 +21815,7 @@
     "mode": "Rail",
     "latitude": 51.5401038456471,
     "longitude": -0.20863359381069022,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21835,7 +21835,7 @@
     "mode": "Rail",
     "latitude": 51.518999724416126,
     "longitude": 0.11763359553969367,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21895,7 +21895,7 @@
     "mode": "Rail",
     "latitude": 51.44966399754917,
     "longitude": -0.043725275042340535,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -21935,7 +21935,7 @@
     "mode": "Rail",
     "latitude": 51.47460260531958,
     "longitude": -0.14491067351465162,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21945,7 +21945,7 @@
     "mode": "Rail",
     "latitude": 51.37643032694203,
     "longitude": -0.3875494089767285,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21955,7 +21955,7 @@
     "mode": "Rail",
     "latitude": 51.424859076973405,
     "longitude": -0.18687592885932944,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -21985,7 +21985,7 @@
     "mode": "Rail",
     "latitude": 51.420497550561485,
     "longitude": -0.40789160683807996,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22005,7 +22005,7 @@
     "mode": "Rail",
     "latitude": 51.451212476035685,
     "longitude": 0.0009351176131016083,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22015,7 +22015,7 @@
     "mode": "Rail",
     "latitude": 51.377476310878855,
     "longitude": -0.15207408554311708,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22025,7 +22025,7 @@
     "mode": "Rail",
     "latitude": 51.477708857917044,
     "longitude": -0.012322563636733406,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22095,7 +22095,7 @@
     "mode": "Rail",
     "latitude": 51.26365608961325,
     "longitude": -0.14842924695523274,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22125,7 +22125,7 @@
     "mode": "Rail",
     "latitude": 51.38437683574077,
     "longitude": -0.2590918584931405,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22155,7 +22155,7 @@
     "mode": "Rail",
     "latitude": 51.46754601254949,
     "longitude": -0.2661655634773797,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22175,7 +22175,7 @@
     "mode": "Rail",
     "latitude": 51.395501701439734,
     "longitude": -0.19781323884000104,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22185,7 +22185,7 @@
     "mode": "Rail",
     "latitude": 51.39242525608013,
     "longitude": -0.1561582203485848,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22195,7 +22195,7 @@
     "mode": "Rail",
     "latitude": 51.44923558112257,
     "longitude": 0.01553049360575459,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22215,7 +22215,7 @@
     "mode": "Rail",
     "latitude": 51.455538257107946,
     "longitude": -0.017575955996206944,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22225,7 +22225,7 @@
     "mode": "Rail",
     "latitude": 51.24023294543337,
     "longitude": -0.5637197066805961,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22255,7 +22255,7 @@
     "mode": "Rail",
     "latitude": 51.46578037233392,
     "longitude": -0.10057434926263266,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22315,7 +22315,7 @@
     "mode": "Rail",
     "latitude": 51.44689639498203,
     "longitude": 0.22108081850576947,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22335,7 +22335,7 @@
     "mode": "Rail",
     "latitude": 51.443963919537396,
     "longitude": -0.024539450899120338,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22345,7 +22345,7 @@
     "mode": "Rail",
     "latitude": 51.35668802235158,
     "longitude": -0.16786442372592159,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22365,7 +22365,7 @@
     "mode": "Rail",
     "latitude": 51.35591106161114,
     "longitude": 0.11021726304804441,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22415,7 +22415,7 @@
     "mode": "Rail",
     "latitude": 51.45880220332087,
     "longitude": 0.08155929203658498,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22425,7 +22425,7 @@
     "mode": "Rail",
     "latitude": 51.34468060314568,
     "longitude": -0.23994609342071363,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22495,7 +22495,7 @@
     "mode": "Rail",
     "latitude": 51.46073458564287,
     "longitude": -0.07902944848321204,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22505,7 +22505,7 @@
     "mode": "Rail",
     "latitude": 51.296229324423166,
     "longitude": 0.1729694321878372,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22555,7 +22555,7 @@
     "mode": "Rail",
     "latitude": 51.4165922877848,
     "longitude": 0.04589640732710509,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22585,7 +22585,7 @@
     "mode": "Rail",
     "latitude": 51.45512253288817,
     "longitude": 0.05409720076357804,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22595,7 +22595,7 @@
     "mode": "Rail",
     "latitude": 51.44968905357703,
     "longitude": -0.32836016844515153,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22605,7 +22605,7 @@
     "mode": "Rail",
     "latitude": 51.48564434315245,
     "longitude": -0.12103973706454382,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22615,7 +22615,7 @@
     "mode": "Rail",
     "latitude": 51.419279265480824,
     "longitude": -0.15894692407157082,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22625,7 +22625,7 @@
     "mode": "Rail",
     "latitude": 51.4605115291004,
     "longitude": -0.18641333928522488,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22635,7 +22635,7 @@
     "mode": "Rail",
     "latitude": 51.400968447851454,
     "longitude": -0.560501543745817,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22645,7 +22645,7 @@
     "mode": "Rail",
     "latitude": 51.49406720615503,
     "longitude": -0.1427949262871946,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "unknown"
   },
@@ -22655,7 +22655,7 @@
     "mode": "Rail",
     "latitude": 51.39193707577835,
     "longitude": -0.3023767569411008,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22675,7 +22675,7 @@
     "mode": "Rail",
     "latitude": 51.42395160198656,
     "longitude": -0.33101146587001323,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22705,7 +22705,7 @@
     "mode": "Rail",
     "latitude": 51.291102175928906,
     "longitude": -0.23437921134122564,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22715,7 +22715,7 @@
     "mode": "Rail",
     "latitude": 51.48116701711389,
     "longitude": -0.323392396846208,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22755,7 +22755,7 @@
     "mode": "Rail",
     "latitude": 51.48544237465185,
     "longitude": -0.6044408577500967,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22785,7 +22785,7 @@
     "mode": "Rail",
     "latitude": 51.46432960653147,
     "longitude": 0.10343796723040873,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22845,7 +22845,7 @@
     "mode": "Rail",
     "latitude": 51.460474647501016,
     "longitude": -0.2138844578797165,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22895,7 +22895,7 @@
     "mode": "Rail",
     "latitude": 51.462594859022374,
     "longitude": -0.2996117464094305,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22925,7 +22925,7 @@
     "mode": "Rail",
     "latitude": 51.411764489609205,
     "longitude": -0.2823997323241861,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -22975,7 +22975,7 @@
     "mode": "Rail",
     "latitude": 51.257178215824034,
     "longitude": -0.002801415621147213,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -22995,7 +22995,7 @@
     "mode": "Rail",
     "latitude": 51.37307580348754,
     "longitude": 0.09042847736075091,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23035,7 +23035,7 @@
     "mode": "Rail",
     "latitude": 51.444230414730356,
     "longitude": -0.023275817427029583,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23055,7 +23055,7 @@
     "mode": "Rail",
     "latitude": 51.431809733349255,
     "longitude": -0.5012195843070251,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23065,7 +23065,7 @@
     "mode": "Rail",
     "latitude": 51.468732236073414,
     "longitude": -0.02077680966680771,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23085,7 +23085,7 @@
     "mode": "Rail",
     "latitude": 51.39140134042958,
     "longitude": -0.08669371036640137,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23135,7 +23135,7 @@
     "mode": "Rail",
     "latitude": 51.331422684141245,
     "longitude": 0.19039769997768832,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23165,7 +23165,7 @@
     "mode": "Rail",
     "latitude": 51.396472161029045,
     "longitude": -0.44509879454689966,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23195,7 +23195,7 @@
     "mode": "Rail",
     "latitude": 51.27616622742774,
     "longitude": 0.18343708159041122,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23255,7 +23255,7 @@
     "mode": "Rail",
     "latitude": 51.509165907406505,
     "longitude": -0.08951724783841557,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23275,7 +23275,7 @@
     "mode": "Rail",
     "latitude": 51.46302952556022,
     "longitude": 0.1355444491208653,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23295,7 +23295,7 @@
     "mode": "Rail",
     "latitude": 51.34333838194411,
     "longitude": -0.19723253450888262,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23315,7 +23315,7 @@
     "mode": "Rail",
     "latitude": 51.509443510672675,
     "longitude": -0.10162673585584565,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23335,7 +23335,7 @@
     "mode": "Rail",
     "latitude": 51.40324196773033,
     "longitude": -0.05421984426331617,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23355,7 +23355,7 @@
     "mode": "Rail",
     "latitude": 51.40709000608461,
     "longitude": -0.1530517254669672,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "not_working"
   },
@@ -23395,7 +23395,7 @@
     "mode": "Rail",
     "latitude": 51.64507396853258,
     "longitude": -0.38334032119006656,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23405,7 +23405,7 @@
     "mode": "Rail",
     "latitude": 51.81315216010218,
     "longitude": -0.8132726512892047,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -23615,7 +23615,7 @@
     "mode": "Rail",
     "latitude": 51.537146996376585,
     "longitude": -0.19001645101736422,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23745,7 +23745,7 @@
     "mode": "Rail",
     "latitude": 51.60901135814349,
     "longitude": -0.3670871737002095,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23765,7 +23765,7 @@
     "mode": "Rail",
     "latitude": 51.53590315095003,
     "longitude": -0.2563296353954123,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -23855,7 +23855,7 @@
     "mode": "Rail",
     "latitude": 51.70284083719945,
     "longitude": -0.707627589259353,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -24485,7 +24485,7 @@
     "mode": "Rail",
     "latitude": 51.458813022661225,
     "longitude": -0.970458074946512,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -24605,7 +24605,7 @@
     "mode": "Rail",
     "latitude": 51.51299446875336,
     "longitude": -0.31961512109748447,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -24925,7 +24925,7 @@
     "mode": "Rail",
     "latitude": 51.686163411076784,
     "longitude": -0.38008275570801425,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -24945,7 +24945,7 @@
     "mode": "Rail",
     "latitude": 51.7250442217094,
     "longitude": -0.33850905359726213,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25205,7 +25205,7 @@
     "mode": "Rail",
     "latitude": 51.54997014233074,
     "longitude": -0.13763368660689745,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25315,7 +25315,7 @@
     "mode": "Rail",
     "latitude": 51.41176195165113,
     "longitude": -0.043589281346059355,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25335,7 +25335,7 @@
     "mode": "Rail",
     "latitude": 51.376179320386385,
     "longitude": -0.27827137382308653,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25365,7 +25365,7 @@
     "mode": "Rail",
     "latitude": 51.43867020267865,
     "longitude": -0.3377131209871731,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25375,7 +25375,7 @@
     "mode": "Rail",
     "latitude": 51.48643568161521,
     "longitude": -0.19371101199089377,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -25385,7 +25385,7 @@
     "mode": "Rail",
     "latitude": 51.34798169879074,
     "longitude": -0.09180638015043587,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25405,7 +25405,7 @@
     "mode": "Rail",
     "latitude": 51.39948387823649,
     "longitude": 0.046009818148753295,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25415,7 +25415,7 @@
     "mode": "Rail",
     "latitude": 51.52862281273818,
     "longitude": -0.13331435002306855,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -25425,7 +25425,7 @@
     "mode": "Rail",
     "latitude": 51.588417972571555,
     "longitude": -0.553616739366912,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -25475,7 +25475,7 @@
     "mode": "Rail",
     "latitude": 51.523441933331966,
     "longitude": -0.05795156663529593,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25535,7 +25535,7 @@
     "mode": "Rail",
     "latitude": 51.568062382910824,
     "longitude": -0.2244767350476063,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
     "lift_status": "working"
   },
@@ -25565,7 +25565,7 @@
     "mode": "Rail",
     "latitude": 51.673554656613334,
     "longitude": -0.605695569206038,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25575,7 +25575,7 @@
     "mode": "Rail",
     "latitude": 51.51295166607248,
     "longitude": -0.14721579628182777,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25585,7 +25585,7 @@
     "mode": "Rail",
     "latitude": 51.49747564395173,
     "longitude": -0.048104834652561254,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25595,7 +25595,7 @@
     "mode": "Rail",
     "latitude": 51.50557845806604,
     "longitude": -0.01592323727312749,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25605,7 +25605,7 @@
     "mode": "Rail",
     "latitude": 51.66757228416443,
     "longitude": -0.559325852006459,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25615,7 +25615,7 @@
     "mode": "Rail",
     "latitude": 51.65370612937642,
     "longitude": -0.5167827894797713,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25635,7 +25635,7 @@
     "mode": "Rail",
     "latitude": 51.54170827367862,
     "longitude": -0.3435084347401687,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25645,7 +25645,7 @@
     "mode": "Rail",
     "latitude": 51.57859279728129,
     "longitude": -0.33483492210816523,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25655,7 +25655,7 @@
     "mode": "Rail",
     "latitude": 51.457885138839245,
     "longitude": -0.44354518157212236,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25665,7 +25665,7 @@
     "mode": "Rail",
     "latitude": 51.47098945589888,
     "longitude": -0.48621273080304556,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25675,7 +25675,7 @@
     "mode": "Rail",
     "latitude": 51.470894571545436,
     "longitude": -0.4527648181962138,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25685,7 +25685,7 @@
     "mode": "Rail",
     "latitude": 51.639722205720325,
     "longitude": -0.471913474306357,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25695,7 +25695,7 @@
     "mode": "Rail",
     "latitude": 51.51491183952019,
     "longitude": -0.12849845907427676,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25705,7 +25705,7 @@
     "mode": "Rail",
     "latitude": 51.51924159922344,
     "longitude": -0.058476265662258185,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25715,7 +25715,7 @@
     "mode": "Rail",
     "latitude": 51.491522742388504,
     "longitude": 0.07237383411002361,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25725,7 +25725,7 @@
     "mode": "Rail",
     "latitude": 51.54560716858326,
     "longitude": -0.07352347895765074,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25735,7 +25735,7 @@
     "mode": "Rail",
     "latitude": 51.538347041865784,
     "longitude": -0.07393107754641821,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25745,7 +25745,7 @@
     "mode": "Rail",
     "latitude": 51.531054499862265,
     "longitude": -0.07400823253098746,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25755,7 +25755,7 @@
     "mode": "Rail",
     "latitude": 51.50018104513681,
     "longitude": -0.05016511830033841,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25765,7 +25765,7 @@
     "mode": "Rail",
     "latitude": 51.51077124251986,
     "longitude": -0.05531964424609952,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25775,7 +25775,7 @@
     "mode": "Rail",
     "latitude": 51.52280076784437,
     "longitude": -0.07360688120139432,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25785,7 +25785,7 @@
     "mode": "Rail",
     "latitude": 51.492827755230856,
     "longitude": -0.04605582901314482,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25795,7 +25795,7 @@
     "mode": "Rail",
     "latitude": 51.50387444997306,
     "longitude": -0.054316339148826644,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25835,7 +25835,7 @@
     "mode": "Rail",
     "latitude": 51.544318515582596,
     "longitude": -0.007156054433257747,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -25887,7 +25887,7 @@
     "longitude": -0.134969,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3832,
@@ -25897,7 +25897,7 @@
     "longitude": -0.105919,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3833,
@@ -25907,7 +25907,7 @@
     "longitude": -0.12447,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3834,
@@ -25917,7 +25917,7 @@
     "longitude": -0.054557,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3835,
@@ -25927,7 +25927,7 @@
     "longitude": -0.152367,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3836,
@@ -25937,7 +25937,7 @@
     "longitude": -0.041645,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3837,
@@ -25947,7 +25947,7 @@
     "longitude": -0.149377,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3838,
@@ -25957,7 +25957,7 @@
     "longitude": -0.264059,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3839,
@@ -25967,7 +25967,7 @@
     "longitude": -0.213592,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3840,
@@ -25977,7 +25977,7 @@
     "longitude": -0.118168,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3841,
@@ -25987,7 +25987,7 @@
     "longitude": -0.153528,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3842,
@@ -25997,7 +25997,7 @@
     "longitude": -0.250003,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3843,
@@ -26007,7 +26007,7 @@
     "longitude": -0.137296,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3844,
@@ -26017,7 +26017,7 @@
     "longitude": -0.129811,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3845,
@@ -26027,7 +26027,7 @@
     "longitude": -0.1475,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3846,
@@ -26037,7 +26037,7 @@
     "longitude": -0.177763,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3847,
@@ -26047,7 +26047,7 @@
     "longitude": -0.018723,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3848,
@@ -26057,7 +26057,7 @@
     "longitude": -0.238663,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3849,
@@ -26067,7 +26067,7 @@
     "longitude": 0.197577,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3850,
@@ -26077,7 +26077,7 @@
     "longitude": -0.275395,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3851,
@@ -26087,7 +26087,7 @@
     "longitude": -0.134358,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3852,
@@ -26097,7 +26097,7 @@
     "longitude": -0.142045,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3853,
@@ -26107,7 +26107,7 @@
     "longitude": 0.065054,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3854,
@@ -26117,7 +26117,7 @@
     "longitude": -0.22631,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3855,
@@ -26127,7 +26127,7 @@
     "longitude": -0.293437,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3856,
@@ -26137,7 +26137,7 @@
     "longitude": -0.145922,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3857,
@@ -26147,7 +26147,7 @@
     "longitude": -0.423607,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3858,
@@ -26157,7 +26157,7 @@
     "longitude": -0.153759,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3859,
@@ -26167,7 +26167,7 @@
     "longitude": -0.366205,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3860,
@@ -26177,7 +26177,7 @@
     "longitude": -0.385806,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3861,
@@ -26187,7 +26187,7 @@
     "longitude": -0.113069,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3862,
@@ -26197,7 +26197,7 @@
     "longitude": -0.194283,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3863,
@@ -26205,9 +26205,9 @@
     "mode": "Tube",
     "latitude": 51.529874,
     "longitude": -0.123919,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3864,
@@ -26217,7 +26217,7 @@
     "longitude": -0.111175,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3865,
@@ -26227,7 +26227,7 @@
     "longitude": -0.17484,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3866,
@@ -26237,7 +26237,7 @@
     "longitude": -0.08955,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3867,
@@ -26257,7 +26257,7 @@
     "longitude": -0.157946,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3869,
@@ -26267,7 +26267,7 @@
     "longitude": -0.096553,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3870,
@@ -26277,7 +26277,7 @@
     "longitude": -0.138339,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3871,
@@ -26287,7 +26287,7 @@
     "longitude": -0.185447,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3872,
@@ -26297,7 +26297,7 @@
     "longitude": -0.250359,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3873,
@@ -26307,7 +26307,7 @@
     "longitude": -0.36923,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3874,
@@ -26317,7 +26317,7 @@
     "longitude": -0.317478,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3875,
@@ -26327,7 +26327,7 @@
     "longitude": -0.131402,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3876,
@@ -26337,7 +26337,7 @@
     "longitude": -0.087527,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3877,
@@ -26347,7 +26347,7 @@
     "longitude": -0.134592,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3878,
@@ -26357,7 +26357,7 @@
     "longitude": -0.295316,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3879,
@@ -26367,7 +26367,7 @@
     "longitude": -0.32289,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3880,
@@ -26377,7 +26377,7 @@
     "longitude": -0.187232,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3881,
@@ -26387,7 +26387,7 @@
     "longitude": 0.046486,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3882,
@@ -26397,7 +26397,7 @@
     "longitude": -0.410839,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3883,
@@ -26407,7 +26407,7 @@
     "longitude": -0.18823,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3884,
@@ -26415,7 +26415,7 @@
     "mode": "Tube",
     "latitude": 51.504363,
     "longitude": -0.217964,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -26427,7 +26427,7 @@
     "longitude": -0.20653,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3886,
@@ -26437,7 +26437,7 @@
     "longitude": -0.127833,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3887,
@@ -26447,7 +26447,7 @@
     "longitude": -0.173957,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3888,
@@ -26457,7 +26457,7 @@
     "longitude": -0.308486,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3889,
@@ -26467,7 +26467,7 @@
     "longitude": -0.399373,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3890,
@@ -26477,7 +26477,7 @@
     "longitude": -0.174695,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3891,
@@ -26487,7 +26487,7 @@
     "longitude": -0.192411,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3892,
@@ -26497,7 +26497,7 @@
     "longitude": -0.159211,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3893,
@@ -26507,7 +26507,7 @@
     "longitude": -0.168136,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3894,
@@ -26517,7 +26517,7 @@
     "longitude": -0.061374,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3895,
@@ -26527,7 +26527,7 @@
     "longitude": -0.102497,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3896,
@@ -26537,7 +26537,7 @@
     "longitude": 0.234872,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3897,
@@ -26547,7 +26547,7 @@
     "longitude": 0.100112,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3898,
@@ -26557,7 +26557,7 @@
     "longitude": -0.124724,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3899,
@@ -26567,7 +26567,7 @@
     "longitude": -0.190434,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3900,
@@ -26577,7 +26577,7 @@
     "longitude": -0.221846,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3901,
@@ -26587,7 +26587,7 @@
     "longitude": -0.199384,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3902,
@@ -26597,7 +26597,7 @@
     "longitude": -0.183103,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3903,
@@ -26605,9 +26605,9 @@
     "mode": "Tube",
     "latitude": 51.50286,
     "longitude": -0.113819,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3904,
@@ -26615,7 +26615,7 @@
     "mode": "Tube",
     "latitude": 51.503333,
     "longitude": -0.113021,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -26627,7 +26627,7 @@
     "longitude": -0.109913,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3906,
@@ -26637,7 +26637,7 @@
     "longitude": 0.029069,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3907,
@@ -26657,7 +26657,7 @@
     "longitude": -0.280462,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3909,
@@ -26677,7 +26677,7 @@
     "longitude": -0.072384,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3911,
@@ -26697,7 +26697,7 @@
     "longitude": -0.075689,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3913,
@@ -26707,7 +26707,7 @@
     "longitude": -0.29961,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3914,
@@ -26717,7 +26717,7 @@
     "longitude": -0.607714,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3915,
@@ -26727,7 +26727,7 @@
     "longitude": -0.133062,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3916,
@@ -26737,7 +26737,7 @@
     "longitude": -0.107457,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3917,
@@ -26747,7 +26747,7 @@
     "longitude": -0.011538,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3918,
@@ -26757,7 +26757,7 @@
     "longitude": -0.097993,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3919,
@@ -26777,7 +26777,7 @@
     "longitude": 0.127016,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3921,
@@ -26787,7 +26787,7 @@
     "longitude": 0.088585,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3922,
@@ -26795,9 +26795,9 @@
     "mode": "Tube",
     "latitude": 51.511581,
     "longitude": -0.103659,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3923,
@@ -26807,7 +26807,7 @@
     "longitude": 0.081053,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3924,
@@ -26817,7 +26817,7 @@
     "longitude": 0.046757,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3925,
@@ -26857,7 +26857,7 @@
     "longitude": -0.063993,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3929,
@@ -26877,7 +26877,7 @@
     "longitude": -0.090047,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3931,
@@ -26887,7 +26887,7 @@
     "longitude": -0.09337,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3932,
@@ -26897,7 +26897,7 @@
     "longitude": -0.324939,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3933,
@@ -26907,7 +26907,7 @@
     "longitude": -0.213427,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3934,
@@ -26917,7 +26917,7 @@
     "longitude": -0.15713,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3935,
@@ -26947,7 +26947,7 @@
     "longitude": -0.025128,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3938,
@@ -26957,7 +26957,7 @@
     "longitude": -0.187938,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3939,
@@ -26967,7 +26967,7 @@
     "longitude": -0.114888,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3940,
@@ -26977,7 +26977,7 @@
     "longitude": -0.164783,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3941,
@@ -26987,7 +26987,7 @@
     "longitude": -0.560689,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3942,
@@ -27017,7 +27017,7 @@
     "longitude": -0.124436,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3945,
@@ -27027,7 +27027,7 @@
     "longitude": 0.008322,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3946,
@@ -27037,7 +27037,7 @@
     "longitude": -0.111583,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3947,
@@ -27045,9 +27045,9 @@
     "mode": "Tube",
     "latitude": 51.50741,
     "longitude": -0.127277,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3948,
@@ -27057,7 +27057,7 @@
     "longitude": -0.149171,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3949,
@@ -27087,7 +27087,7 @@
     "longitude": -0.294693,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3952,
@@ -27127,7 +27127,7 @@
     "longitude": -0.611247,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3956,
@@ -27135,9 +27135,9 @@
     "mode": "Tube",
     "latitude": 51.51151,
     "longitude": -0.090432,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3957,
@@ -27147,7 +27147,7 @@
     "longitude": -0.14274,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3958,
@@ -27157,7 +27157,7 @@
     "longitude": 0.075041,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3959,
@@ -27167,7 +27167,7 @@
     "longitude": -0.267972,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3960,
@@ -27177,7 +27177,7 @@
     "longitude": -0.049405,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3961,
@@ -27187,7 +27187,7 @@
     "longitude": -0.441718,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3962,
@@ -27197,7 +27197,7 @@
     "longitude": -0.518461,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3963,
@@ -27217,7 +27217,7 @@
     "longitude": 0.083782,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3965,
@@ -27227,7 +27227,7 @@
     "longitude": 0.166017,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3966,
@@ -27237,7 +27237,7 @@
     "longitude": 0.147527,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3967,
@@ -27257,7 +27257,7 @@
     "longitude": -0.100606,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3969,
@@ -27267,7 +27267,7 @@
     "longitude": -0.397373,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3970,
@@ -27277,7 +27277,7 @@
     "longitude": -0.247248,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3971,
@@ -27287,7 +27287,7 @@
     "longitude": -0.301457,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3972,
@@ -27297,7 +27297,7 @@
     "longitude": -0.288265,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3973,
@@ -27307,7 +27307,7 @@
     "longitude": -0.193378,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3974,
@@ -27317,7 +27317,7 @@
     "longitude": -0.165012,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3975,
@@ -27327,7 +27327,7 @@
     "longitude": -0.274928,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3976,
@@ -27337,7 +27337,7 @@
     "longitude": 0.051186,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3977,
@@ -27347,7 +27347,7 @@
     "longitude": -0.122666,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3978,
@@ -27357,7 +27357,7 @@
     "longitude": 0.113767,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3979,
@@ -27377,7 +27377,7 @@
     "longitude": -0.211,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3981,
@@ -27385,7 +27385,7 @@
     "mode": "Tube",
     "latitude": 51.520299,
     "longitude": -0.17015,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -27395,7 +27395,7 @@
     "mode": "Tube",
     "latitude": 51.519858,
     "longitude": -0.167832,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -27407,7 +27407,7 @@
     "longitude": -0.135829,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3984,
@@ -27415,9 +27415,9 @@
     "mode": "Tube",
     "latitude": 51.528055,
     "longitude": -0.132182,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3985,
@@ -27427,7 +27427,7 @@
     "longitude": -0.195422,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3986,
@@ -27437,7 +27437,7 @@
     "longitude": -0.104913,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3987,
@@ -27447,7 +27447,7 @@
     "longitude": 0.091004,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3988,
@@ -27457,7 +27457,7 @@
     "longitude": -0.106825,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3989,
@@ -27467,7 +27467,7 @@
     "longitude": -0.192527,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3990,
@@ -27477,7 +27477,7 @@
     "longitude": -0.179845,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3991,
@@ -27507,7 +27507,7 @@
     "longitude": -0.34605,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3994,
@@ -27517,7 +27517,7 @@
     "longitude": 0.092066,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3995,
@@ -27527,7 +27527,7 @@
     "longitude": -0.194039,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3996,
@@ -27537,7 +27537,7 @@
     "longitude": -0.226715,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3997,
@@ -27557,7 +27557,7 @@
     "longitude": -0.144262,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 3999,
@@ -27577,7 +27577,7 @@
     "longitude": -0.182658,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4001,
@@ -27587,7 +27587,7 @@
     "longitude": -0.103324,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4002,
@@ -27597,7 +27597,7 @@
     "longitude": -0.335217,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4003,
@@ -27607,7 +27607,7 @@
     "longitude": -0.120475,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4004,
@@ -27617,7 +27617,7 @@
     "longitude": -0.194298,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4005,
@@ -27627,7 +27627,7 @@
     "longitude": 0.219116,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4006,
@@ -27647,7 +27647,7 @@
     "longitude": -0.449828,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4008,
@@ -27677,7 +27677,7 @@
     "longitude": 0.093482,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4011,
@@ -27697,7 +27697,7 @@
     "longitude": -0.337225,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4013,
@@ -27717,7 +27717,7 @@
     "longitude": -0.205679,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4015,
@@ -27727,7 +27727,7 @@
     "longitude": -0.445771,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4016,
@@ -27737,7 +27737,7 @@
     "longitude": -0.49056,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4017,
@@ -27745,9 +27745,9 @@
     "mode": "Tube",
     "latitude": 51.471235,
     "longitude": -0.452265,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4018,
@@ -27755,7 +27755,7 @@
     "mode": "Tube",
     "latitude": 51.49339,
     "longitude": -0.22503,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -27765,7 +27765,7 @@
     "mode": "Tube",
     "latitude": 51.4923,
     "longitude": -0.22362,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -27777,7 +27777,7 @@
     "longitude": -0.192792,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4021,
@@ -27787,7 +27787,7 @@
     "longitude": -0.257883,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4022,
@@ -27797,7 +27797,7 @@
     "longitude": -0.177464,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4023,
@@ -27817,7 +27817,7 @@
     "longitude": -0.356474,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4025,
@@ -27847,7 +27847,7 @@
     "longitude": -0.442001,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4028,
@@ -27857,7 +27857,7 @@
     "longitude": -0.204248,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4029,
@@ -27867,7 +27867,7 @@
     "longitude": -0.27879,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4030,
@@ -27877,7 +27877,7 @@
     "longitude": -0.31691,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4031,
@@ -27887,7 +27887,7 @@
     "longitude": -0.160508,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4032,
@@ -27897,7 +27897,7 @@
     "longitude": -0.105963,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4033,
@@ -27927,7 +27927,7 @@
     "longitude": -0.140733,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4036,
@@ -27937,7 +27937,7 @@
     "longitude": -0.225016,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4037,
@@ -27945,7 +27945,7 @@
     "mode": "Tube",
     "latitude": 51.530663,
     "longitude": -0.123194,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -27957,7 +27957,7 @@
     "longitude": -0.285241,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4039,
@@ -27967,7 +27967,7 @@
     "longitude": -0.210391,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4040,
@@ -27987,7 +27987,7 @@
     "longitude": 0.055476,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4042,
@@ -28017,7 +28017,7 @@
     "longitude": -0.217799,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4045,
@@ -28027,7 +28027,7 @@
     "longitude": -0.128426,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4046,
@@ -28035,9 +28035,9 @@
     "mode": "Tube",
     "latitude": 51.517372,
     "longitude": -0.083182,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4047,
@@ -28047,7 +28047,7 @@
     "longitude": -0.005523,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4048,
@@ -28057,7 +28057,7 @@
     "longitude": 0.008194,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4049,
@@ -28077,7 +28077,7 @@
     "longitude": -0.194839,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4051,
@@ -28087,7 +28087,7 @@
     "longitude": -0.03364,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4052,
@@ -28097,7 +28097,7 @@
     "longitude": -0.088322,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4053,
@@ -28107,7 +28107,7 @@
     "longitude": -0.209986,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4054,
@@ -28117,7 +28117,7 @@
     "longitude": -0.085969,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4055,
@@ -28127,7 +28127,7 @@
     "longitude": -0.432454,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4056,
@@ -28147,7 +28147,7 @@
     "longitude": -0.094009,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4058,
@@ -28175,9 +28175,9 @@
     "mode": "Tube",
     "latitude": 51.522322,
     "longitude": -0.163207,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4061,
@@ -28187,7 +28187,7 @@
     "longitude": -0.259755,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4062,
@@ -28197,7 +28197,7 @@
     "longitude": 0.090004,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4063,
@@ -28217,7 +28217,7 @@
     "longitude": -0.288868,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4065,
@@ -28227,7 +28227,7 @@
     "longitude": -0.314719,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4066,
@@ -28237,7 +28237,7 @@
     "longitude": 0.004287,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4067,
@@ -28247,7 +28247,7 @@
     "longitude": -0.362408,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4068,
@@ -28257,7 +28257,7 @@
     "longitude": -0.196104,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4069,
@@ -28287,7 +28287,7 @@
     "longitude": -0.423829,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4072,
@@ -28297,7 +28297,7 @@
     "longitude": -0.409464,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4073,
@@ -28307,7 +28307,7 @@
     "longitude": -0.304,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4074,
@@ -28337,7 +28337,7 @@
     "longitude": -0.352224,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4077,
@@ -28347,7 +28347,7 @@
     "longitude": -0.112439,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4078,
@@ -28357,7 +28357,7 @@
     "longitude": -0.141903,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4079,
@@ -28365,9 +28365,9 @@
     "mode": "Tube",
     "latitude": 51.516581,
     "longitude": -0.175689,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4080,
@@ -28375,9 +28375,9 @@
     "mode": "Tube",
     "latitude": 51.518187,
     "longitude": -0.178306,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4081,
@@ -28387,7 +28387,7 @@
     "longitude": -0.133798,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4082,
@@ -28407,7 +28407,7 @@
     "longitude": -0.284341,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4084,
@@ -28417,7 +28417,7 @@
     "longitude": 0.017451,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4085,
@@ -28427,7 +28427,7 @@
     "longitude": -0.381161,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4086,
@@ -28447,7 +28447,7 @@
     "longitude": -0.20117,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4088,
@@ -28467,7 +28467,7 @@
     "longitude": -0.208731,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4090,
@@ -28477,7 +28477,7 @@
     "longitude": -0.286219,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4091,
@@ -28487,7 +28487,7 @@
     "longitude": -0.204574,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4092,
@@ -28517,7 +28517,7 @@
     "longitude": -0.146444,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4095,
@@ -28527,7 +28527,7 @@
     "longitude": -0.473703,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4096,
@@ -28537,7 +28537,7 @@
     "longitude": -0.301336,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4097,
@@ -28557,7 +28557,7 @@
     "longitude": -0.412973,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4099,
@@ -28567,7 +28567,7 @@
     "longitude": -0.421898,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4100,
@@ -28577,7 +28577,7 @@
     "longitude": -0.124285,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4101,
@@ -28587,7 +28587,7 @@
     "longitude": -0.235881,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4102,
@@ -28597,7 +28597,7 @@
     "longitude": 0.043647,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4103,
@@ -28607,7 +28607,7 @@
     "longitude": -0.371127,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4104,
@@ -28625,7 +28625,7 @@
     "mode": "Tube",
     "latitude": 51.504376,
     "longitude": -0.218813,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -28647,7 +28647,7 @@
     "longitude": -0.307424,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4108,
@@ -28657,7 +28657,7 @@
     "longitude": -0.245704,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4109,
@@ -28677,7 +28677,7 @@
     "longitude": -0.046596,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4111,
@@ -28687,7 +28687,7 @@
     "longitude": -0.275892,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4112,
@@ -28707,7 +28707,7 @@
     "longitude": -0.352492,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4114,
@@ -28717,7 +28717,7 @@
     "longitude": -0.133608,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4115,
@@ -28737,7 +28737,7 @@
     "longitude": -0.174138,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4117,
@@ -28757,7 +28757,7 @@
     "longitude": -0.122644,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4119,
@@ -28767,7 +28767,7 @@
     "longitude": 0.02144,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4120,
@@ -28777,7 +28777,7 @@
     "longitude": -0.097567,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4121,
@@ -28797,7 +28797,7 @@
     "longitude": -0.156377,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4123,
@@ -28807,7 +28807,7 @@
     "longitude": -0.003458,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4124,
@@ -28817,7 +28817,7 @@
     "longitude": -0.303266,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4125,
@@ -28827,7 +28827,7 @@
     "longitude": -0.336435,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4126,
@@ -28837,7 +28837,7 @@
     "longitude": -0.315745,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4127,
@@ -28847,7 +28847,7 @@
     "longitude": -0.072584,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4128,
@@ -28867,7 +28867,7 @@
     "longitude": 0.027338,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4130,
@@ -28877,7 +28877,7 @@
     "longitude": -0.105331,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4131,
@@ -28897,7 +28897,7 @@
     "longitude": -0.17921,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4133,
@@ -28927,7 +28927,7 @@
     "longitude": -0.13041,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4136,
@@ -28937,7 +28937,7 @@
     "longitude": -0.138433,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4137,
@@ -28947,7 +28947,7 @@
     "longitude": 0.103085,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4138,
@@ -28967,7 +28967,7 @@
     "longitude": -0.11426,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4140,
@@ -28977,7 +28977,7 @@
     "longitude": -0.254555,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4141,
@@ -28997,7 +28997,7 @@
     "longitude": -0.076546,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4143,
@@ -29017,7 +29017,7 @@
     "longitude": 0.035263,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4145,
@@ -29027,7 +29027,7 @@
     "longitude": 0.250882,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4146,
@@ -29047,7 +29047,7 @@
     "longitude": -0.477949,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4148,
@@ -29055,9 +29055,9 @@
     "mode": "Tube",
     "latitude": 51.496359,
     "longitude": -0.143102,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4149,
@@ -29077,7 +29077,7 @@
     "longitude": -0.417377,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4151,
@@ -29087,7 +29087,7 @@
     "longitude": -0.195599,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4152,
@@ -29097,7 +29097,7 @@
     "longitude": -0.224297,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4153,
@@ -29107,7 +29107,7 @@
     "longitude": -0.188362,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4154,
@@ -29117,7 +29117,7 @@
     "longitude": 0.005055,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4155,
@@ -29137,7 +29137,7 @@
     "longitude": -0.3534,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4157,
@@ -29157,7 +29157,7 @@
     "longitude": -0.206573,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4159,
@@ -29177,7 +29177,7 @@
     "longitude": -0.244283,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4161,
@@ -29197,7 +29197,7 @@
     "longitude": -0.206636,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4163,
@@ -29207,7 +29207,7 @@
     "longitude": -0.22453,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4164,
@@ -29215,7 +29215,7 @@
     "mode": "Tube",
     "latitude": 51.503299,
     "longitude": -0.11478,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -29227,7 +29227,7 @@
     "longitude": 0.03397,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4166,
@@ -29247,7 +29247,7 @@
     "longitude": -0.18542,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4168,
@@ -29257,7 +29257,7 @@
     "longitude": -0.059971,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4169,
@@ -29267,7 +29267,7 @@
     "longitude": -0.437886,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4170,
@@ -29277,7 +29277,7 @@
     "longitude": -0.138321,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4171,
@@ -29297,7 +29297,7 @@
     "longitude": -0.124861,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4173,
@@ -29307,7 +29307,7 @@
     "longitude": -0.201065,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4174,
@@ -29317,7 +29317,7 @@
     "longitude": -0.28098,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4175,
@@ -29327,7 +29327,7 @@
     "longitude": -0.019885,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4176,
@@ -29337,7 +29337,7 @@
     "longitude": -0.296852,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4177,
@@ -29347,7 +29347,7 @@
     "longitude": -0.279262,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4178,
@@ -29357,7 +29357,7 @@
     "longitude": -0.128476,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4179,
@@ -29367,7 +29367,7 @@
     "longitude": -0.263059,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4180,
@@ -29387,7 +29387,7 @@
     "longitude": -0.065384,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4182,
@@ -29517,7 +29517,7 @@
     "longitude": -0.037765,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4195,
@@ -29667,7 +29667,7 @@
     "longitude": -0.115588,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4210,
@@ -29717,7 +29717,7 @@
     "longitude": -0.139086,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4215,
@@ -29757,7 +29757,7 @@
     "longitude": -0.092191,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4219,
@@ -29817,7 +29817,7 @@
     "longitude": -0.385544,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4225,
@@ -29867,7 +29867,7 @@
     "longitude": -0.075167,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4230,
@@ -29955,7 +29955,7 @@
     "mode": "Tube",
     "latitude": 51.528954,
     "longitude": -0.135,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -29987,7 +29987,7 @@
     "longitude": -0.053182,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4242,
@@ -30017,7 +30017,7 @@
     "longitude": -0.151399,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4245,
@@ -30047,7 +30047,7 @@
     "longitude": -0.056213,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4248,
@@ -30067,7 +30067,7 @@
     "longitude": -0.024589,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4250,
@@ -30087,7 +30087,7 @@
     "longitude": -0.075514,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4252,
@@ -30147,7 +30147,7 @@
     "longitude": -0.356528,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4258,
@@ -30237,7 +30237,7 @@
     "longitude": -0.043004,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4267,
@@ -30277,7 +30277,7 @@
     "longitude": -0.075893,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4271,
@@ -30297,7 +30297,7 @@
     "longitude": -0.097966,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4273,
@@ -30337,7 +30337,7 @@
     "longitude": -0.368344,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4277,
@@ -30377,7 +30377,7 @@
     "longitude": -0.220262,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4281,
@@ -30515,7 +30515,7 @@
     "mode": "Tube",
     "latitude": 51.518381,
     "longitude": -0.081092,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -30657,7 +30657,7 @@
     "longitude": -0.060811,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4309,
@@ -30685,7 +30685,7 @@
     "mode": "Overground",
     "latitude": 51.534043,
     "longitude": -0.205285,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -30695,7 +30695,7 @@
     "mode": "Overground",
     "latitude": 51.534097,
     "longitude": -0.205311,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -30767,7 +30767,7 @@
     "longitude": -0.269689,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4320,
@@ -30827,7 +30827,7 @@
     "longitude": -0.056934,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4326,
@@ -30887,7 +30887,7 @@
     "longitude": -0.076367,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4332,
@@ -31137,7 +31137,7 @@
     "longitude": -0.13041,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4357,
@@ -31315,7 +31315,7 @@
     "mode": "Rail",
     "latitude": 51.547309,
     "longitude": -0.191998,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -31325,7 +31325,7 @@
     "mode": "Rail",
     "latitude": 51.547255,
     "longitude": -0.191957,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -31357,7 +31357,7 @@
     "longitude": -0.024156,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4379,
@@ -31415,7 +31415,7 @@
     "mode": "Overground",
     "latitude": 51.469826,
     "longitude": -0.138276,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -31425,7 +31425,7 @@
     "mode": "Overground",
     "latitude": 51.469798,
     "longitude": -0.138249,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -31585,7 +31585,7 @@
     "mode": "Overground",
     "latitude": 51.531973,
     "longitude": -0.057279,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -31797,7 +31797,7 @@
     "longitude": -0.133924,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4423,
@@ -32077,7 +32077,7 @@
     "longitude": -0.081426,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4451,
@@ -32125,7 +32125,7 @@
     "mode": "Overground",
     "latitude": 51.476344,
     "longitude": -0.032441,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32175,7 +32175,7 @@
     "mode": "Overground",
     "latitude": 51.533966,
     "longitude": -0.204985,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32195,7 +32195,7 @@
     "mode": "Overground",
     "latitude": 51.463061,
     "longitude": -0.301558,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32315,7 +32315,7 @@
     "mode": "Overground",
     "latitude": 51.541895,
     "longitude": -0.003397,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32325,7 +32325,7 @@
     "mode": "Overground",
     "latitude": 51.580981,
     "longitude": -0.032918,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32585,7 +32585,7 @@
     "mode": "Overground",
     "latitude": 51.470216,
     "longitude": -0.13852,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32637,7 +32637,7 @@
     "longitude": -0.010359,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4507,
@@ -32647,7 +32647,7 @@
     "longitude": 0.062266,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4508,
@@ -32667,7 +32667,7 @@
     "longitude": -0.01713,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4510,
@@ -32677,7 +32677,7 @@
     "longitude": 0.03333,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4511,
@@ -32685,7 +32685,7 @@
     "mode": "DLR",
     "latitude": 51.511707,
     "longitude": -0.055893,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32707,7 +32707,7 @@
     "longitude": 0.003737,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4514,
@@ -32717,7 +32717,7 @@
     "longitude": -0.013135,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4515,
@@ -32727,7 +32727,7 @@
     "longitude": 0.061453,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4516,
@@ -32737,7 +32737,7 @@
     "longitude": -0.006969,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4517,
@@ -32757,7 +32757,7 @@
     "longitude": -0.020936,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4519,
@@ -32767,7 +32767,7 @@
     "longitude": 0.054932,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4520,
@@ -32797,7 +32797,7 @@
     "longitude": -0.014606,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4523,
@@ -32805,7 +32805,7 @@
     "mode": "DLR",
     "latitude": 51.509716,
     "longitude": 0.026699,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -32827,7 +32827,7 @@
     "longitude": 0.063925,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4526,
@@ -32837,7 +32837,7 @@
     "longitude": -0.022438,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4527,
@@ -32847,7 +32847,7 @@
     "longitude": -0.017615,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4528,
@@ -32857,7 +32857,7 @@
     "longitude": -0.002326,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4529,
@@ -32867,7 +32867,7 @@
     "longitude": -0.016728,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4530,
@@ -32877,7 +32877,7 @@
     "longitude": 0.071555,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4531,
@@ -32895,9 +32895,9 @@
     "mode": "DLR",
     "latitude": 51.503379,
     "longitude": -0.021421,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4533,
@@ -32967,7 +32967,7 @@
     "longitude": -0.014738,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4540,
@@ -32977,7 +32977,7 @@
     "longitude": 0.032115,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4541,
@@ -33007,7 +33007,7 @@
     "longitude": -0.012755,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4544,
@@ -33017,7 +33017,7 @@
     "longitude": 0.045935,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4545,
@@ -33047,7 +33047,7 @@
     "longitude": -0.001078,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4548,
@@ -33057,7 +33057,7 @@
     "longitude": -0.009638,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4549,
@@ -33067,7 +33067,7 @@
     "longitude": -0.01597,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4550,
@@ -33087,7 +33087,7 @@
     "longitude": 0.004156,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4552,
@@ -33107,7 +33107,7 @@
     "longitude": -0.02675,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4554,
@@ -33127,7 +33127,7 @@
     "longitude": -0.020311,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4556,
@@ -33147,7 +33147,7 @@
     "longitude": 0.02246,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4558,
@@ -33185,7 +33185,7 @@
     "mode": "Elizabeth line",
     "latitude": 51.523506,
     "longitude": -0.646374,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33405,7 +33405,7 @@
     "mode": "Tube",
     "latitude": 51.471987,
     "longitude": -0.454788,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33465,7 +33465,7 @@
     "mode": "Elizabeth line",
     "latitude": 51.507712,
     "longitude": -0.541104,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33475,7 +33475,7 @@
     "mode": "Tube",
     "latitude": 51.518381,
     "longitude": -0.081092,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33485,7 +33485,7 @@
     "mode": "Tube",
     "latitude": 51.51776,
     "longitude": -0.086524,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33495,7 +33495,7 @@
     "mode": "Tube",
     "latitude": 51.517364,
     "longitude": -0.086007,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33555,7 +33555,7 @@
     "mode": "Tube",
     "latitude": 51.515721,
     "longitude": -0.177021,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33565,7 +33565,7 @@
     "mode": "Tube",
     "latitude": 51.51564,
     "longitude": -0.177038,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33575,7 +33575,7 @@
     "mode": "Tube",
     "latitude": 51.516995,
     "longitude": -0.177388,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33795,7 +33795,7 @@
     "mode": "Elizabeth line",
     "latitude": 51.523506,
     "longitude": -0.646374,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33935,7 +33935,7 @@
     "mode": "Tube",
     "latitude": 51.471987,
     "longitude": -0.454788,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -33985,7 +33985,7 @@
     "mode": "Elizabeth line",
     "latitude": 51.508062,
     "longitude": -0.541756,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -34005,7 +34005,7 @@
     "mode": "Tube",
     "latitude": 51.517721,
     "longitude": -0.082043,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -34045,7 +34045,7 @@
     "mode": "Tube",
     "latitude": 51.516449,
     "longitude": -0.177107,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
@@ -34057,7 +34057,7 @@
     "longitude": -0.176174,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "unknown"
+    "lift_status": "working"
   },
   {
     "station_id": 4649,
@@ -34105,7 +34105,7 @@
     "mode": "Overground",
     "latitude": 51.541895,
     "longitude": -0.003397,
-    "in_ltw_area": true,
+    "in_ltw_area": false,
     "has_lift": false,
     "lift_status": null
   },
