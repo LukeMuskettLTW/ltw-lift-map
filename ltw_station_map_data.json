@@ -26807,7 +26807,7 @@
     "longitude": 0.081053,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 3924,
@@ -27587,7 +27587,7 @@
     "longitude": -0.103324,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4002,
@@ -27597,7 +27597,7 @@
     "longitude": -0.335217,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4003,
@@ -29087,7 +29087,7 @@
     "longitude": -0.195599,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4152,
@@ -29177,7 +29177,7 @@
     "longitude": -0.244283,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4161,
@@ -29327,7 +29327,7 @@
     "longitude": -0.019885,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4176,
@@ -29337,7 +29337,7 @@
     "longitude": -0.296852,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4177,
@@ -29406,8 +29406,8 @@
     "latitude": 51.539674,
     "longitude": 0.080406,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4184,
@@ -29757,7 +29757,7 @@
     "longitude": -0.092191,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4219,
@@ -29766,8 +29766,8 @@
     "latitude": 51.548672,
     "longitude": -0.0929,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4220,
@@ -29776,8 +29776,8 @@
     "latitude": 51.548557,
     "longitude": -0.093006,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4221,
@@ -29786,8 +29786,8 @@
     "latitude": 51.548647,
     "longitude": -0.093045,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4222,
@@ -30186,8 +30186,8 @@
     "latitude": 51.546032,
     "longitude": -0.104246,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4262,
@@ -30196,8 +30196,8 @@
     "latitude": 51.545925,
     "longitude": -0.104841,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4263,
@@ -30206,8 +30206,8 @@
     "latitude": 51.54587,
     "longitude": -0.104815,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4264,
@@ -30316,8 +30316,8 @@
     "latitude": 51.59223,
     "longitude": -0.335103,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4275,
@@ -30326,8 +30326,8 @@
     "latitude": 51.592186,
     "longitude": -0.335148,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4276,
@@ -31206,8 +31206,8 @@
     "latitude": 51.48672,
     "longitude": -0.195044,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4364,
@@ -31216,8 +31216,8 @@
     "latitude": 51.4868,
     "longitude": -0.194984,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4365,
@@ -31336,8 +31336,8 @@
     "latitude": 51.531992,
     "longitude": -0.243284,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4377,
@@ -31346,8 +31346,8 @@
     "latitude": 51.532428,
     "longitude": -0.244796,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4378,
@@ -31376,8 +31376,8 @@
     "latitude": 51.582898,
     "longitude": -0.020191,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4381,
@@ -31386,8 +31386,8 @@
     "latitude": 51.582835,
     "longitude": -0.020179,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4382,
@@ -31396,8 +31396,8 @@
     "latitude": 51.55195,
     "longitude": -0.296591,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4383,
@@ -31406,8 +31406,8 @@
     "latitude": 51.551993,
     "longitude": -0.296503,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4384,
@@ -31476,8 +31476,8 @@
     "latitude": 51.539495,
     "longitude": 0.080903,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4391,
@@ -31686,8 +31686,8 @@
     "latitude": 51.548732,
     "longitude": -0.092191,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4412,
@@ -31906,8 +31906,8 @@
     "latitude": 51.546177,
     "longitude": -0.103764,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4434,
@@ -31976,8 +31976,8 @@
     "latitude": 51.592169,
     "longitude": -0.334571,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4441,
@@ -32476,8 +32476,8 @@
     "latitude": 51.487061,
     "longitude": -0.195593,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4491,
@@ -32546,8 +32546,8 @@
     "latitude": 51.532497,
     "longitude": -0.244548,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4498,
@@ -32566,8 +32566,8 @@
     "latitude": 51.582919,
     "longitude": -0.019815,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4500,
@@ -32576,8 +32576,8 @@
     "latitude": 51.552325,
     "longitude": -0.296433,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4501,
@@ -32696,8 +32696,8 @@
     "latitude": 51.510645,
     "longitude": -0.07437,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4513,
@@ -32847,7 +32847,7 @@
     "longitude": -0.017615,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4528,
@@ -32897,7 +32897,7 @@
     "longitude": -0.021421,
     "in_ltw_area": false,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4533,
@@ -32936,8 +32936,8 @@
     "latitude": 51.515172,
     "longitude": -0.01415,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4537,
@@ -33007,7 +33007,7 @@
     "longitude": -0.012755,
     "in_ltw_area": true,
     "has_lift": true,
-    "lift_status": "working"
+    "lift_status": "out"
   },
   {
     "station_id": 4544,
@@ -33096,8 +33096,8 @@
     "latitude": 51.510617,
     "longitude": -0.074818,
     "in_ltw_area": true,
-    "has_lift": false,
-    "lift_status": null
+    "has_lift": true,
+    "lift_status": "out"
   },
   {
     "station_id": 4553,
